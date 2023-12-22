@@ -25,19 +25,21 @@
             "file:///home/mihalic2040/Desktop/INfa/Orig/lab13/Miha": "__default__profile__",
             "file:///home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1703269450723": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "a256156625a6451a8246ede4b73c66a99c4ce40af11fd6df0bd0af608456353d",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob"
+                "backupFolder": "1703269450723"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -77,22 +79,10 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob",
-                                        "path": "/home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/INfa/Orig/lab13/BigBob"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -192,6 +182,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/work/MK14-SuperVision"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/mihalic2040/Drives/Games/Minecraft/instances/GT%20New%20Horizons%202.4.0/.minecraft/shaderpacks",
+                                        "path": "/home/mihalic2040/Drives/Games/Minecraft/instances/GT New Horizons 2.4.0/.minecraft/shaderpacks",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Drives/Games/Minecraft/instances/GT New Horizons 2.4.0/.minecraft/shaderpacks"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -429,10 +430,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -822,13 +819,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -905,10 +895,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -932,7 +918,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -1442,9 +1429,8 @@
                 "userSettingsLabel": "ctrl+shift+s"
             },
             "workbench.action.openSettings": {
-                "label": "Ctrl+Shift+.",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[Slash]"
+                "label": "Ctrl+,",
+                "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1463,11 +1449,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1515,8 +1496,7 @@
             },
             "editor.action.commentLine": {
                 "label": "Ctrl+/",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+[IntlBackslash]"
+                "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1601,12 +1581,10 @@
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1614,10 +1592,10 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+/",
+            "workbench.action.splitEditorUp": {
+                "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+[IntlBackslash]"
+                "userSettingsLabel": "ctrl+k ctrl+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1652,18 +1630,20 @@
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
             },
+            "workbench.action.terminal.toggleTerminal": {
+                "label": "Ctrl+`",
+                "userSettingsLabel": "ctrl+`"
+            },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
             },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1758,9 +1738,8 @@
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "Ctrl+Shift+/",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[IntlBackslash]"
+                "label": "Ctrl+Shift+\\",
+                "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1818,6 +1797,10 @@
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
             },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "userSettingsLabel": "ctrl+shift+`"
+            },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
@@ -1836,7 +1819,7 @@
     "theme": "vs-dark",
     "themeBackground": "#0a0b0a",
     "windowSplash": {
-        "zoomLevel": -1,
+        "zoomLevel": 2,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#bbbbbb",
@@ -1851,23 +1834,22 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 207,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob",
-            "backupPath": "/home/mihalic2040/.config/Code/Backups/8387d73395c933062f16862d12bb22de",
+            "backupPath": "/home/mihalic2040/.config/Code/Backups/1703269450723",
             "uiState": {
                 "mode": 1,
-                "x": 644,
-                "y": 30,
-                "width": 3191,
-                "height": 2086
+                "x": 0,
+                "y": 25,
+                "width": 1920,
+                "height": 1055
             }
         },
         "openedWindows": []
