@@ -32,6 +32,7 @@ bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
 exec --no-startup-id setxkbmap -model pc104 -layout us,ua -variant ,, -option grp:alt_shift_toggle,grp:ctrl_space_toggle
 #exec --no-startup-id xrandr --dpi 220
 bindsym --release $mod+space exec --no-startup-id rofi -show run
+bindsym --release $mod++c exec --no-startup-id rofi -show calc
 bindsym --release $mod+t exec --no-startup-id Forkgram
 exec --no-startup-id flameshot
 bindsym --release $mod+p exec --no-startup-id flameshot gui
@@ -40,6 +41,8 @@ bindsym --release $mod+p exec --no-startup-id flameshot gui
 exec --no-startup-id blueman-applet
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id picom -b
+
+
 #StartBrowrser
 bindsym $mod+b exec --no-startup-id google-chrome-stable --force-device-scale-factor=1.5
 
