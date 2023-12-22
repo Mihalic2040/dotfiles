@@ -1,0 +1,24 @@
+#History lists
+
+[shortcuts]
+"Home[path]/home/mihalic2040"
+"Desktop[path]/home/mihalic2040/Desktop"
+"Collections[path]/home/mihalic2040/.local/share/geeqie/collections"
+
+[path_list]
+"/home/mihalic2040"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM/100PINT/Піни"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM/100PINT"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM/Camera/IMG_20230112_161853"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM/Camera"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/Pictures/QR & Barcode Scanner"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/Pictures"
+
+[image_list]
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/DCIM/Camera/PANO_20231120_120419.vr.jpg"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/Pictures/QR & Barcode Scanner/1693555769265.jpg"
+"/run/media/mihalic2040/Data/Phone Backup/23.12.2023/Pictures/Untitled4_20220521180559.png"
+
+#end
