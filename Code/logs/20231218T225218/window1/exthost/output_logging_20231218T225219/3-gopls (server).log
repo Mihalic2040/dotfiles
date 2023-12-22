@@ -1,0 +1,47 @@
+[Info  - 10:52:20 PM] 2023/12/18 22:52:20 go info for /home/mihalic2040/work/Rosa-Desktop
+(go dir /home/mihalic2040/work/Rosa-Desktop)
+(go version go version go1.21.5 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/mihalic2040/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/mihalic2040/go/pkg/mod, GOPATH=/home/mihalic2040/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 10:52:20 PM] 2023/12/18 22:52:20 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[/home/mihalic2040/work/Rosa-Desktop/... builtin]
+	packages=4
+
+[Info  - 10:52:20 PM] 2023/12/18 22:52:20 go/packages.Load #1: updating metadata for 447 packages
+
+[Info  - 11:01:17 PM] 2023/12/18 23:01:17 background imports cache refresh starting
+
+[Info  - 11:01:17 PM] 2023/12/18 23:01:17 background refresh finished after 63.100115ms
+
+[Info  - 11:02:01 PM] 2023/12/18 23:02:01 background imports cache refresh starting
+
+[Info  - 11:02:01 PM] 2023/12/18 23:02:01 background refresh finished after 14.808798ms
+
+[Info  - 11:23:20 PM] 2023/12/18 23:23:20 background imports cache refresh starting
+
+[Info  - 11:23:20 PM] 2023/12/18 23:23:20 background refresh finished after 17.822926ms
+
+[Info  - 11:24:11 PM] 2023/12/18 23:24:11 background imports cache refresh starting
+
+[Info  - 11:24:11 PM] 2023/12/18 23:24:11 background refresh finished after 13.567386ms
+
+[Info  - 11:27:23 PM] 2023/12/18 23:27:23 background imports cache refresh starting
+
+[Info  - 11:27:23 PM] 2023/12/18 23:27:23 background refresh finished after 14.43491ms
+
+[Info  - 11:45:19 PM] 2023/12/18 23:45:19 background imports cache refresh starting
+
+[Info  - 11:45:19 PM] 2023/12/18 23:45:19 background refresh finished after 18.937271ms
+
+[Info  - 11:47:23 PM] 2023/12/18 23:47:23 background imports cache refresh starting
+
+[Info  - 11:47:23 PM] 2023/12/18 23:47:23 background refresh finished after 17.992601ms
+
+[Info  - 11:47:55 PM] 2023/12/18 23:47:55 Shutdown session
+	shutdown_session=1
+

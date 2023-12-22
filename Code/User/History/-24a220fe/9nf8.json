@@ -1,0 +1,21 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Hacker",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 24,
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "vim.handleKeys":{
+  "<C-c>": false,
+  "<C-a>": false,
+  "<C-b>": false,
+  "<C-x>": false,
+    },
+}

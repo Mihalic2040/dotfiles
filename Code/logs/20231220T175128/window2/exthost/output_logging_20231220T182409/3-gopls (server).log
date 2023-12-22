@@ -1,0 +1,2599 @@
+[Info  - 6:24:10 PM] 2023/12/20 18:24:10 go info for /home/mihalic2040/work/Rosa-Desktop
+(go dir /home/mihalic2040/work/Rosa-Desktop)
+(go version go version go1.21.5 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/mihalic2040/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/mihalic2040/go/pkg/mod, GOPATH=/home/mihalic2040/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 6:24:11 PM] 2023/12/20 18:24:11 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[/home/mihalic2040/work/Rosa-Desktop/... builtin]
+	packages=4
+
+[Info  - 6:24:11 PM] 2023/12/20 18:24:11 go/packages.Load #1: updating metadata for 447 packages
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #4
+	snapshot=5
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #4
+	snapshot=5
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #3
+	snapshot=5
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #3
+	snapshot=5
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #4: updating metadata for 1 packages
+
+[Info  - 6:24:20 PM] 2023/12/20 18:24:20 go/packages.Load #3: updating metadata for 0 packages
+
+[Info  - 6:24:21 PM] 2023/12/20 18:24:21 go/packages.Load #5
+	snapshot=6
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:24:21 PM] 2023/12/20 18:24:21 go/packages.Load #5
+	snapshot=6
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:24:21 PM] 2023/12/20 18:24:21 go/packages.Load #5: updating metadata for 1 packages
+
+[Info  - 6:24:27 PM] 2023/12/20 18:24:27 go/packages.Load #6
+	snapshot=7
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:27 PM] 2023/12/20 18:24:27 go/packages.Load #6
+	snapshot=7
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:27 PM] 2023/12/20 18:24:27 go/packages.Load #6: updating metadata for 102 packages
+
+[Error - 6:24:27 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 6:24:28 PM] 2023/12/20 18:24:28 go/packages.Load #8
+	snapshot=7
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:24:28 PM] 2023/12/20 18:24:28 go/packages.Load #8
+	snapshot=7
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:24:28 PM] 2023/12/20 18:24:28 go/packages.Load #8: updating metadata for 1 packages
+
+[Info  - 6:24:32 PM] 2023/12/20 18:24:32 go/packages.Load #11
+	snapshot=9
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:32 PM] 2023/12/20 18:24:32 go/packages.Load #11
+	snapshot=9
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:32 PM] 2023/12/20 18:24:32 go/packages.Load #11: updating metadata for 1 packages
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #13
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #13
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #12
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #12
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #13: updating metadata for 1 packages
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #12: updating metadata for 0 packages
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #14
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #14
+	snapshot=10
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #14: updating metadata for 1 packages
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #16
+	snapshot=11
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #16
+	snapshot=11
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #16: updating metadata for 1 packages
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #15
+	snapshot=11
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #15
+	snapshot=11
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:33 PM] 2023/12/20 18:24:33 go/packages.Load #15: updating metadata for 0 packages
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #17
+	snapshot=12
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #17
+	snapshot=12
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #17: updating metadata for 1 packages
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #18
+	snapshot=12
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #18
+	snapshot=12
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:24:34 PM] 2023/12/20 18:24:34 go/packages.Load #18: updating metadata for 0 packages
+
+[Info  - 6:24:37 PM] 2023/12/20 18:24:37 go/packages.Load #20
+	snapshot=14
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:24:37 PM] 2023/12/20 18:24:37 go/packages.Load #20
+	snapshot=14
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:24:37 PM] 2023/12/20 18:24:37 go/packages.Load #20: updating metadata for 1 packages
+
+[Error - 6:24:37 PM] 2023/12/20 18:24:37 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:24:42 PM] 2023/12/20 18:24:42 background imports cache refresh starting
+
+[Info  - 6:24:42 PM] 2023/12/20 18:24:42 background refresh finished after 468.039535ms
+
+[Error - 6:24:43 PM] 2023/12/20 18:24:43 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:25:06 PM] 2023/12/20 18:25:06 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:25:13 PM] 2023/12/20 18:25:13 background imports cache refresh starting
+
+[Info  - 6:25:14 PM] 2023/12/20 18:25:14 background refresh finished after 25.570054ms
+
+[Error - 6:25:22 PM] 2023/12/20 18:25:22 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:25:27 PM] 2023/12/20 18:25:27 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:30:6: expected type, found '&'
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Error - 6:25:28 PM] 2023/12/20 18:25:28 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:25:49 PM] 2023/12/20 18:25:49 background imports cache refresh starting
+
+[Info  - 6:25:49 PM] 2023/12/20 18:25:49 background refresh finished after 18.672839ms
+
+[Error - 6:25:55 PM] 2023/12/20 18:25:55 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:31:6: expected ';', found '*' (and 5 more errors)
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Error - 6:25:56 PM] 2023/12/20 18:25:56 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #23
+	snapshot=37
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go]
+	packages=1
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #23
+	snapshot=37
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #23: updating metadata for 1 packages
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #24
+	snapshot=37
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go]
+	packages=1
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #24
+	snapshot=37
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Error - 6:25:59 PM] 2023/12/20 18:25:59 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:32:6: expected ';', found '*' (and 5 more errors)
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Info  - 6:25:59 PM] 2023/12/20 18:25:59 go/packages.Load #24: updating metadata for 0 packages
+
+[Error - 6:25:59 PM] 2023/12/20 18:25:59 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:32:6: expected ';', found '*' (and 5 more errors)
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Info  - 6:26:02 PM] 2023/12/20 18:26:02 go/packages.Load #25
+	snapshot=41
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:26:02 PM] 2023/12/20 18:26:02 go/packages.Load #25
+	snapshot=41
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:26:02 PM] 2023/12/20 18:26:02 go/packages.Load #25: updating metadata for 1 packages
+
+[Error - 6:26:02 PM] 2023/12/20 18:26:02 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:16 PM] 2023/12/20 18:26:16 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:21 PM] 2023/12/20 18:26:21 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:23 PM] 2023/12/20 18:26:23 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:26:24 PM] 2023/12/20 18:26:24 background imports cache refresh starting
+
+[Info  - 6:26:24 PM] 2023/12/20 18:26:24 background refresh finished after 18.740458ms
+
+[Error - 6:26:25 PM] 2023/12/20 18:26:25 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:27 PM] 2023/12/20 18:26:27 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:85:2: expected statement, found 'ILLEGAL' (and 1 more errors)
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Error - 6:26:28 PM] 2023/12/20 18:26:28 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:34 PM] 2023/12/20 18:26:34 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:37 PM] 2023/12/20 18:26:37 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:39 PM] 2023/12/20 18:26:39 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:41 PM] 2023/12/20 18:26:41 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:45 PM] 2023/12/20 18:26:45 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:26:48 PM] 2023/12/20 18:26:48 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:26:56 PM] 2023/12/20 18:26:56 background imports cache refresh starting
+
+[Info  - 6:26:56 PM] 2023/12/20 18:26:56 background refresh finished after 17.944117ms
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #26
+	snapshot=92
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #26
+	snapshot=92
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #27
+	snapshot=92
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #27
+	snapshot=92
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #26: updating metadata for 1 packages
+
+[Info  - 6:27:01 PM] 2023/12/20 18:27:01 go/packages.Load #27: updating metadata for 0 packages
+
+[Info  - 6:27:03 PM] 2023/12/20 18:27:03 go/packages.Load #28
+	snapshot=94
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:27:03 PM] 2023/12/20 18:27:03 go/packages.Load #28
+	snapshot=94
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:27:03 PM] 2023/12/20 18:27:03 go/packages.Load #28: updating metadata for 1 packages
+
+[Error - 6:27:03 PM] 2023/12/20 18:27:03 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:07 PM] 2023/12/20 18:27:07 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:21 PM] 2023/12/20 18:27:21 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:24 PM] 2023/12/20 18:27:24 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:27:26 PM] 2023/12/20 18:27:26 background imports cache refresh starting
+
+[Info  - 6:27:26 PM] 2023/12/20 18:27:26 background refresh finished after 21.256255ms
+
+[Error - 6:27:28 PM] 2023/12/20 18:27:28 no signature help: cannot find an enclosing function
+	position=85:24
+
+[Error - 6:27:29 PM] 2023/12/20 18:27:29 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:32 PM] 2023/12/20 18:27:32 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:38 PM] 2023/12/20 18:27:38 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:40 PM] 2023/12/20 18:27:40 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:42 PM] 2023/12/20 18:27:42 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:43 PM] 2023/12/20 18:27:43 no signature help: no signature help within a string literal
+	position=86:14
+
+[Error - 6:27:44 PM] 2023/12/20 18:27:44 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:47 PM] 2023/12/20 18:27:47 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:48 PM] 2023/12/20 18:27:48 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:87:22: illegal rune literal
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Error - 6:27:50 PM] 2023/12/20 18:27:50 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:27:53 PM] 2023/12/20 18:27:53 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:27:56 PM] 2023/12/20 18:27:56 background imports cache refresh starting
+
+[Info  - 6:27:56 PM] 2023/12/20 18:27:56 background refresh finished after 17.040899ms
+
+[Error - 6:28:01 PM] 2023/12/20 18:28:01 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:10 PM] 2023/12/20 18:28:10 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:11 PM] 2023/12/20 18:28:11 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:13 PM] 2023/12/20 18:28:13 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:17 PM] 2023/12/20 18:28:17 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:21 PM] 2023/12/20 18:28:21 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Error - 6:28:26 PM] 2023/12/20 18:28:26 tidy: diagnosing file:///home/mihalic2040/work/Rosa-Desktop/go.mod: err: exit status 1: stderr: go: downloading github.com/ipfs/go-ipfs-util v0.0.2
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading github.com/frankban/quicktest v1.14.4
+go: downloading github.com/warpfork/go-wish v0.0.0-20220906213052-39a1cc7a02d0
+go: downloading github.com/smartystreets/goconvey v1.7.2
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-record tested by
+	github.com/libp2p/go-libp2p-record.test imports
+	github.com/ipfs/go-ipfs-util: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	go.opencensus.io/stats tested by
+	go.opencensus.io/stats.test imports
+	go.opencensus.io/trace imports
+	github.com/golang/groupcache/lru: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor tested by
+	github.com/ipld/go-ipld-prime/codec/dagcbor.test imports
+	github.com/frankban/quicktest: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor tested by
+	github.com/polydawn/refmt/cbor.test imports
+	github.com/warpfork/go-wish: module lookup disabled by GOPROXY=off
+go: changeme/src imports
+	github.com/libp2p/go-libp2p-kad-dht imports
+	github.com/libp2p/go-libp2p-kad-dht/internal/config imports
+	github.com/ipfs/boxo/ipns imports
+	github.com/ipld/go-ipld-prime/codec/dagcbor imports
+	github.com/polydawn/refmt/cbor imports
+	github.com/polydawn/refmt/obj tested by
+	github.com/polydawn/refmt/obj.test imports
+	github.com/smartystreets/goconvey/convey: module lookup disabled by GOPROXY=off
+
+
+[Info  - 6:28:30 PM] 2023/12/20 18:28:30 background imports cache refresh starting
+
+[Info  - 6:28:30 PM] 2023/12/20 18:28:30 background refresh finished after 18.37014ms
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #29
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[/home/mihalic2040/work/Rosa-Desktop/... builtin]
+	packages=4
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #29: updating metadata for 543 packages
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[container/heap go/constant go/types internal/goversion internal/types/errors]
+	packages=16
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap"
+	files=[/usr/lib/go/src/container/heap/heap.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant"
+	files=[/usr/lib/go/src/go/constant/kind_string.go /usr/lib/go/src/go/constant/value.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors"
+	files=[/usr/lib/go/src/internal/types/errors/code_string.go /usr/lib/go/src/internal/types/errors/codes.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/goversion"
+	files=[/usr/lib/go/src/internal/goversion/goversion.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types"
+	files=[/usr/lib/go/src/go/types/api.go /usr/lib/go/src/go/types/array.go /usr/lib/go/src/go/types/assignments.go /usr/lib/go/src/go/types/basic.go /usr/lib/go/src/go/types/builtins.go /usr/lib/go/src/go/types/call.go /usr/lib/go/src/go/types/chan.go /usr/lib/go/src/go/types/check.go /usr/lib/go/src/go/types/const.go /usr/lib/go/src/go/types/context.go /usr/lib/go/src/go/types/conversions.go /usr/lib/go/src/go/types/decl.go /usr/lib/go/src/go/types/errors.go /usr/lib/go/src/go/types/eval.go /usr/lib/go/src/go/types/expr.go /usr/lib/go/src/go/types/exprstring.go /usr/lib/go/src/go/types/gccgosizes.go /usr/lib/go/src/go/types/generate.go /usr/lib/go/src/go/types/index.go /usr/lib/go/src/go/types/infer.go /usr/lib/go/src/go/types/initorder.go /usr/lib/go/src/go/types/instantiate.go /usr/lib/go/src/go/types/interface.go /usr/lib/go/src/go/types/labels.go /usr/lib/go/src/go/types/lookup.go /usr/lib/go/src/go/types/map.go /usr/lib/go/src/go/types/methodset.go /usr/lib/go/src/go/types/mono.go /usr/lib/go/src/go/types/named.go /usr/lib/go/src/go/types/object.go /usr/lib/go/src/go/types/objset.go /usr/lib/go/src/go/types/operand.go /usr/lib/go/src/go/types/package.go /usr/lib/go/src/go/types/pointer.go /usr/lib/go/src/go/types/predicates.go /usr/lib/go/src/go/types/resolver.go /usr/lib/go/src/go/types/return.go /usr/lib/go/src/go/types/scope.go /usr/lib/go/src/go/types/selection.go /usr/lib/go/src/go/types/signature.go /usr/lib/go/src/go/types/sizes.go /usr/lib/go/src/go/types/slice.go /usr/lib/go/src/go/types/stmt.go /usr/lib/go/src/go/types/struct.go /usr/lib/go/src/go/types/subst.go /usr/lib/go/src/go/types/termlist.go /usr/lib/go/src/go/types/tuple.go /usr/lib/go/src/go/types/type.go /usr/lib/go/src/go/types/typelists.go /usr/lib/go/src/go/types/typeparam.go /usr/lib/go/src/go/types/typeset.go /usr/lib/go/src/go/types/typestring.go /usr/lib/go/src/go/types/typeterm.go /usr/lib/go/src/go/types/typexpr.go /usr/lib/go/src/go/types/under.go /usr/lib/go/src/go/types/unify.go /usr/lib/go/src/go/types/union.go /usr/lib/go/src/go/types/universe.go /usr/lib/go/src/go/types/util.go /usr/lib/go/src/go/types/validtype.go /usr/lib/go/src/go/types/version.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap_test [container/heap.test]"
+	files=[/usr/lib/go/src/container/heap/example_intheap_test.go /usr/lib/go/src/container/heap/example_pq_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant [go/constant.test]"
+	files=[/usr/lib/go/src/go/constant/kind_string.go /usr/lib/go/src/go/constant/value.go /usr/lib/go/src/go/constant/value_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant.test"
+	files=[/home/mihalic2040/.cache/go-build/58/583445e0700a8fe2773fdef84b84344a144e28b007bdfab093c213a38db43c7d-d]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant_test [go/constant.test]"
+	files=[/usr/lib/go/src/go/constant/example_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types [go/types.test]"
+	files=[/usr/lib/go/src/go/types/api.go /usr/lib/go/src/go/types/array.go /usr/lib/go/src/go/types/assignments.go /usr/lib/go/src/go/types/basic.go /usr/lib/go/src/go/types/builtins.go /usr/lib/go/src/go/types/call.go /usr/lib/go/src/go/types/chan.go /usr/lib/go/src/go/types/check.go /usr/lib/go/src/go/types/const.go /usr/lib/go/src/go/types/context.go /usr/lib/go/src/go/types/conversions.go /usr/lib/go/src/go/types/decl.go /usr/lib/go/src/go/types/errors.go /usr/lib/go/src/go/types/eval.go /usr/lib/go/src/go/types/expr.go /usr/lib/go/src/go/types/exprstring.go /usr/lib/go/src/go/types/gccgosizes.go /usr/lib/go/src/go/types/generate.go /usr/lib/go/src/go/types/index.go /usr/lib/go/src/go/types/infer.go /usr/lib/go/src/go/types/initorder.go /usr/lib/go/src/go/types/instantiate.go /usr/lib/go/src/go/types/interface.go /usr/lib/go/src/go/types/labels.go /usr/lib/go/src/go/types/lookup.go /usr/lib/go/src/go/types/map.go /usr/lib/go/src/go/types/methodset.go /usr/lib/go/src/go/types/mono.go /usr/lib/go/src/go/types/named.go /usr/lib/go/src/go/types/object.go /usr/lib/go/src/go/types/objset.go /usr/lib/go/src/go/types/operand.go /usr/lib/go/src/go/types/package.go /usr/lib/go/src/go/types/pointer.go /usr/lib/go/src/go/types/predicates.go /usr/lib/go/src/go/types/resolver.go /usr/lib/go/src/go/types/return.go /usr/lib/go/src/go/types/scope.go /usr/lib/go/src/go/types/selection.go /usr/lib/go/src/go/types/signature.go /usr/lib/go/src/go/types/sizes.go /usr/lib/go/src/go/types/slice.go /usr/lib/go/src/go/types/stmt.go /usr/lib/go/src/go/types/struct.go /usr/lib/go/src/go/types/subst.go /usr/lib/go/src/go/types/termlist.go /usr/lib/go/src/go/types/tuple.go /usr/lib/go/src/go/types/type.go /usr/lib/go/src/go/types/typelists.go /usr/lib/go/src/go/types/typeparam.go /usr/lib/go/src/go/types/typeset.go /usr/lib/go/src/go/types/typestring.go /usr/lib/go/src/go/types/typeterm.go /usr/lib/go/src/go/types/typexpr.go /usr/lib/go/src/go/types/under.go /usr/lib/go/src/go/types/unify.go /usr/lib/go/src/go/types/union.go /usr/lib/go/src/go/types/universe.go /usr/lib/go/src/go/types/util.go /usr/lib/go/src/go/types/validtype.go /usr/lib/go/src/go/types/version.go /usr/lib/go/src/go/types/context_test.go /usr/lib/go/src/go/types/errors_test.go /usr/lib/go/src/go/types/sizeof_test.go /usr/lib/go/src/go/types/termlist_test.go /usr/lib/go/src/go/types/token_test.go /usr/lib/go/src/go/types/typeset_test.go /usr/lib/go/src/go/types/typeterm_test.go /usr/lib/go/src/go/types/util_test.go /usr/lib/go/src/go/types/version_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types_test [go/types.test]"
+	files=[/usr/lib/go/src/go/types/api_test.go /usr/lib/go/src/go/types/builtins_test.go /usr/lib/go/src/go/types/check_test.go /usr/lib/go/src/go/types/commentMap_test.go /usr/lib/go/src/go/types/errorcalls_test.go /usr/lib/go/src/go/types/eval_test.go /usr/lib/go/src/go/types/example_test.go /usr/lib/go/src/go/types/exprstring_test.go /usr/lib/go/src/go/types/generate_test.go /usr/lib/go/src/go/types/hilbert_test.go /usr/lib/go/src/go/types/instantiate_test.go /usr/lib/go/src/go/types/issues_test.go /usr/lib/go/src/go/types/lookup_test.go /usr/lib/go/src/go/types/main_test.go /usr/lib/go/src/go/types/methodset_test.go /usr/lib/go/src/go/types/mono_test.go /usr/lib/go/src/go/types/named_test.go /usr/lib/go/src/go/types/object_test.go /usr/lib/go/src/go/types/resolver_test.go /usr/lib/go/src/go/types/self_test.go /usr/lib/go/src/go/types/sizes_test.go /usr/lib/go/src/go/types/stdlib_test.go /usr/lib/go/src/go/types/typestring_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap.test"
+	files=[/home/mihalic2040/.cache/go-build/40/40658c1ca94a13bf6401057934d82aeaa255c0008eec3f6874168eff584e6ec5-d]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap [container/heap.test]"
+	files=[/usr/lib/go/src/container/heap/heap.go /usr/lib/go/src/container/heap/heap_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types.test"
+	files=[/home/mihalic2040/.cache/go-build/02/0255a439566ae3d30eab258d21b0a1f455ab6b79cb45141343ae359e079b3c3c-d]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors_test [internal/types/errors.test]"
+	files=[/usr/lib/go/src/internal/types/errors/codes_test.go]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30
+	snapshot=199
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors.test"
+	files=[/home/mihalic2040/.cache/go-build/02/029554a976f94222c0551904a8fe200fa04be789b8213c114f605845aba12f86-d]
+
+[Info  - 6:28:43 PM] 2023/12/20 18:28:43 go/packages.Load #30: updating metadata for 36 packages
+
+[Info  - 6:30:00 PM] 2023/12/20 18:30:00 background imports cache refresh starting
+
+[Info  - 6:30:00 PM] 2023/12/20 18:30:00 background refresh finished after 25.061037ms
+
+[Info  - 6:31:28 PM] 2023/12/20 18:31:28 background imports cache refresh starting
+
+[Info  - 6:31:28 PM] 2023/12/20 18:31:28 background refresh finished after 48.465769ms
+
+[Info  - 6:31:59 PM] 2023/12/20 18:31:59 background imports cache refresh starting
+
+[Info  - 6:31:59 PM] 2023/12/20 18:31:59 background refresh finished after 52.633695ms
+
+[Info  - 6:32:01 PM] 2023/12/20 18:32:01 go/packages.Load #31
+	snapshot=223
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[file=/home/mihalic2040/work/Rosa-Desktop/src/Dht.go]
+	packages=1
+
+[Info  - 6:32:01 PM] 2023/12/20 18:32:01 go/packages.Load #31
+	snapshot=223
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme/src"
+	files=[/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go /home/mihalic2040/work/Rosa-Desktop/src/Dht.go /home/mihalic2040/work/Rosa-Desktop/src/Models.go /home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go /home/mihalic2040/work/Rosa-Desktop/src/Profile.go]
+
+[Info  - 6:32:01 PM] 2023/12/20 18:32:01 go/packages.Load #31: updating metadata for 1 packages
+
+[Info  - 6:32:02 PM] 2023/12/20 18:32:02 go/packages.Load #32
+	snapshot=224
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[changeme]
+	packages=1
+
+[Info  - 6:32:02 PM] 2023/12/20 18:32:02 go/packages.Load #32
+	snapshot=224
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="changeme"
+	files=[/home/mihalic2040/work/Rosa-Desktop/app.go /home/mihalic2040/work/Rosa-Desktop/main.go]
+
+[Info  - 6:32:02 PM] 2023/12/20 18:32:02 go/packages.Load #32: updating metadata for 1 packages
+
+[Info  - 6:32:31 PM] 2023/12/20 18:32:31 background imports cache refresh starting
+
+[Info  - 6:32:31 PM] 2023/12/20 18:32:31 background refresh finished after 46.745799ms
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #33
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[/home/mihalic2040/work/Rosa-Desktop/... builtin]
+	packages=4
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #33: updating metadata for 543 packages
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[container/heap container/heap_test debug/dwarf debug/elf go/build go/constant go/constant_test go/doc go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/srcimporter go/types go/types_test internal/buildcfg internal/cfg internal/diff internal/goroot internal/goversion internal/lazyregexp internal/pkgbits internal/platform internal/saferio internal/testenv internal/types/errors internal/types/errors_test internal/xcoff internal/zstd text/scanner]
+	packages=75
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap"
+	files=[/usr/lib/go/src/container/heap/heap.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap_test"
+	files=[]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/dwarf"
+	files=[/usr/lib/go/src/debug/dwarf/attr_string.go /usr/lib/go/src/debug/dwarf/buf.go /usr/lib/go/src/debug/dwarf/class_string.go /usr/lib/go/src/debug/dwarf/const.go /usr/lib/go/src/debug/dwarf/entry.go /usr/lib/go/src/debug/dwarf/line.go /usr/lib/go/src/debug/dwarf/open.go /usr/lib/go/src/debug/dwarf/tag_string.go /usr/lib/go/src/debug/dwarf/type.go /usr/lib/go/src/debug/dwarf/typeunit.go /usr/lib/go/src/debug/dwarf/unit.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/saferio"
+	files=[/usr/lib/go/src/internal/saferio/io.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/zstd"
+	files=[/usr/lib/go/src/internal/zstd/bits.go /usr/lib/go/src/internal/zstd/block.go /usr/lib/go/src/internal/zstd/fse.go /usr/lib/go/src/internal/zstd/huff.go /usr/lib/go/src/internal/zstd/literals.go /usr/lib/go/src/internal/zstd/xxhash.go /usr/lib/go/src/internal/zstd/zstd.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/elf"
+	files=[/usr/lib/go/src/debug/elf/elf.go /usr/lib/go/src/debug/elf/file.go /usr/lib/go/src/debug/elf/reader.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/buildcfg"
+	files=[/usr/lib/go/src/internal/buildcfg/cfg.go /usr/lib/go/src/internal/buildcfg/exp.go /usr/lib/go/src/internal/buildcfg/zbootstrap.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/goroot"
+	files=[/usr/lib/go/src/internal/goroot/gc.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant"
+	files=[/usr/lib/go/src/go/constant/kind_string.go /usr/lib/go/src/go/constant/value.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/lazyregexp"
+	files=[/usr/lib/go/src/internal/lazyregexp/lazyre.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors"
+	files=[/usr/lib/go/src/internal/types/errors/code_string.go /usr/lib/go/src/internal/types/errors/codes.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/doc"
+	files=[/usr/lib/go/src/go/doc/comment.go /usr/lib/go/src/go/doc/doc.go /usr/lib/go/src/go/doc/example.go /usr/lib/go/src/go/doc/exports.go /usr/lib/go/src/go/doc/filter.go /usr/lib/go/src/go/doc/reader.go /usr/lib/go/src/go/doc/synopsis.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types"
+	files=[/usr/lib/go/src/go/types/api.go /usr/lib/go/src/go/types/array.go /usr/lib/go/src/go/types/assignments.go /usr/lib/go/src/go/types/basic.go /usr/lib/go/src/go/types/builtins.go /usr/lib/go/src/go/types/call.go /usr/lib/go/src/go/types/chan.go /usr/lib/go/src/go/types/check.go /usr/lib/go/src/go/types/const.go /usr/lib/go/src/go/types/context.go /usr/lib/go/src/go/types/conversions.go /usr/lib/go/src/go/types/decl.go /usr/lib/go/src/go/types/errors.go /usr/lib/go/src/go/types/eval.go /usr/lib/go/src/go/types/expr.go /usr/lib/go/src/go/types/exprstring.go /usr/lib/go/src/go/types/gccgosizes.go /usr/lib/go/src/go/types/generate.go /usr/lib/go/src/go/types/index.go /usr/lib/go/src/go/types/infer.go /usr/lib/go/src/go/types/initorder.go /usr/lib/go/src/go/types/instantiate.go /usr/lib/go/src/go/types/interface.go /usr/lib/go/src/go/types/labels.go /usr/lib/go/src/go/types/lookup.go /usr/lib/go/src/go/types/map.go /usr/lib/go/src/go/types/methodset.go /usr/lib/go/src/go/types/mono.go /usr/lib/go/src/go/types/named.go /usr/lib/go/src/go/types/object.go /usr/lib/go/src/go/types/objset.go /usr/lib/go/src/go/types/operand.go /usr/lib/go/src/go/types/package.go /usr/lib/go/src/go/types/pointer.go /usr/lib/go/src/go/types/predicates.go /usr/lib/go/src/go/types/resolver.go /usr/lib/go/src/go/types/return.go /usr/lib/go/src/go/types/scope.go /usr/lib/go/src/go/types/selection.go /usr/lib/go/src/go/types/signature.go /usr/lib/go/src/go/types/sizes.go /usr/lib/go/src/go/types/slice.go /usr/lib/go/src/go/types/stmt.go /usr/lib/go/src/go/types/struct.go /usr/lib/go/src/go/types/subst.go /usr/lib/go/src/go/types/termlist.go /usr/lib/go/src/go/types/tuple.go /usr/lib/go/src/go/types/type.go /usr/lib/go/src/go/types/typelists.go /usr/lib/go/src/go/types/typeparam.go /usr/lib/go/src/go/types/typeset.go /usr/lib/go/src/go/types/typestring.go /usr/lib/go/src/go/types/typeterm.go /usr/lib/go/src/go/types/typexpr.go /usr/lib/go/src/go/types/under.go /usr/lib/go/src/go/types/unify.go /usr/lib/go/src/go/types/union.go /usr/lib/go/src/go/types/universe.go /usr/lib/go/src/go/types/util.go /usr/lib/go/src/go/types/validtype.go /usr/lib/go/src/go/types/version.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/xcoff"
+	files=[/usr/lib/go/src/internal/xcoff/ar.go /usr/lib/go/src/internal/xcoff/file.go /usr/lib/go/src/internal/xcoff/xcoff.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="text/scanner"
+	files=[/usr/lib/go/src/text/scanner/scanner.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/pkgbits"
+	files=[/usr/lib/go/src/internal/pkgbits/codes.go /usr/lib/go/src/internal/pkgbits/decoder.go /usr/lib/go/src/internal/pkgbits/doc.go /usr/lib/go/src/internal/pkgbits/encoder.go /usr/lib/go/src/internal/pkgbits/flags.go /usr/lib/go/src/internal/pkgbits/reloc.go /usr/lib/go/src/internal/pkgbits/support.go /usr/lib/go/src/internal/pkgbits/sync.go /usr/lib/go/src/internal/pkgbits/syncmarker_string.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gcimporter"
+	files=[/usr/lib/go/src/go/internal/gcimporter/exportdata.go /usr/lib/go/src/go/internal/gcimporter/gcimporter.go /usr/lib/go/src/go/internal/gcimporter/iimport.go /usr/lib/go/src/go/internal/gcimporter/support.go /usr/lib/go/src/go/internal/gcimporter/ureader.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/importer"
+	files=[/usr/lib/go/src/go/importer/importer.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gccgoimporter"
+	files=[/usr/lib/go/src/go/internal/gccgoimporter/ar.go /usr/lib/go/src/go/internal/gccgoimporter/gccgoinstallation.go /usr/lib/go/src/go/internal/gccgoimporter/importer.go /usr/lib/go/src/go/internal/gccgoimporter/parser.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types_test"
+	files=[]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/diff"
+	files=[/usr/lib/go/src/internal/diff/diff.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/testenv"
+	files=[/usr/lib/go/src/internal/testenv/exec.go /usr/lib/go/src/internal/testenv/opt.go /usr/lib/go/src/internal/testenv/testenv.go /usr/lib/go/src/internal/testenv/testenv_notwin.go /usr/lib/go/src/internal/testenv/testenv_unix.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap [container/heap.test]"
+	files=[/usr/lib/go/src/container/heap/heap.go /usr/lib/go/src/container/heap/heap_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors_test"
+	files=[]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap_test [container/heap.test]"
+	files=[/usr/lib/go/src/container/heap/example_intheap_test.go /usr/lib/go/src/container/heap/example_pq_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/dwarf_test [debug/dwarf.test]"
+	files=[/usr/lib/go/src/debug/dwarf/entry_test.go /usr/lib/go/src/debug/dwarf/line_test.go /usr/lib/go/src/debug/dwarf/type_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/dwarf.test"
+	files=[/home/mihalic2040/.cache/go-build/6e/6ef0ffbdc2b61b0480a6c5bcbc0d6aef24438e88de69394034c4ea418560c173-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/goversion"
+	files=[/usr/lib/go/src/internal/goversion/goversion.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/platform"
+	files=[/usr/lib/go/src/internal/platform/supported.go /usr/lib/go/src/internal/platform/zosarch.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/build"
+	files=[/usr/lib/go/src/go/build/build.go /usr/lib/go/src/go/build/doc.go /usr/lib/go/src/go/build/gc.go /usr/lib/go/src/go/build/read.go /usr/lib/go/src/go/build/syslist.go /usr/lib/go/src/go/build/zcgo.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant_test"
+	files=[]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/elf.test"
+	files=[/home/mihalic2040/.cache/go-build/54/54cf8a483683e7368efb37f0c57162004e69b0ece321adf694f2876d6ab74298-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant [go/constant.test]"
+	files=[/usr/lib/go/src/go/constant/kind_string.go /usr/lib/go/src/go/constant/value.go /usr/lib/go/src/go/constant/value_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant_test [go/constant.test]"
+	files=[/usr/lib/go/src/go/constant/example_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/importer.test"
+	files=[/home/mihalic2040/.cache/go-build/af/af7b048f2ad653a8fc724603017810733bae69938bf2734061e5bac257e97e97-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gccgoimporter [go/internal/gccgoimporter.test]"
+	files=[/usr/lib/go/src/go/internal/gccgoimporter/ar.go /usr/lib/go/src/go/internal/gccgoimporter/gccgoinstallation.go /usr/lib/go/src/go/internal/gccgoimporter/importer.go /usr/lib/go/src/go/internal/gccgoimporter/parser.go /usr/lib/go/src/go/internal/gccgoimporter/gccgoinstallation_test.go /usr/lib/go/src/go/internal/gccgoimporter/importer_test.go /usr/lib/go/src/go/internal/gccgoimporter/parser_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/doc [go/doc.test]"
+	files=[/usr/lib/go/src/go/doc/comment.go /usr/lib/go/src/go/doc/doc.go /usr/lib/go/src/go/doc/example.go /usr/lib/go/src/go/doc/exports.go /usr/lib/go/src/go/doc/filter.go /usr/lib/go/src/go/doc/reader.go /usr/lib/go/src/go/doc/synopsis.go /usr/lib/go/src/go/doc/comment_test.go /usr/lib/go/src/go/doc/doc_test.go /usr/lib/go/src/go/doc/example_internal_test.go /usr/lib/go/src/go/doc/synopsis_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gcimporter_test [go/internal/gcimporter.test]"
+	files=[/usr/lib/go/src/go/internal/gcimporter/gcimporter_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/build [go/build.test]"
+	files=[/usr/lib/go/src/go/build/build.go /usr/lib/go/src/go/build/doc.go /usr/lib/go/src/go/build/gc.go /usr/lib/go/src/go/build/read.go /usr/lib/go/src/go/build/syslist.go /usr/lib/go/src/go/build/zcgo.go /usr/lib/go/src/go/build/build_test.go /usr/lib/go/src/go/build/deps_test.go /usr/lib/go/src/go/build/read_test.go /usr/lib/go/src/go/build/syslist_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/srcimporter.test"
+	files=[/home/mihalic2040/.cache/go-build/0a/0ae51b226b73cbec7120c92a4050739534060530608093dc09636d52dce53e28-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gccgoimporter.test"
+	files=[/home/mihalic2040/.cache/go-build/24/24fe678dde9bdf324f5aa65621bd9e25947338dbb56a91b3c50f8b4e6f41f6e3-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/srcimporter"
+	files=[/usr/lib/go/src/go/internal/srcimporter/srcimporter.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/cfg"
+	files=[/usr/lib/go/src/internal/cfg/cfg.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="container/heap.test"
+	files=[/home/mihalic2040/.cache/go-build/40/40658c1ca94a13bf6401057934d82aeaa255c0008eec3f6874168eff584e6ec5-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/dwarf [debug/dwarf.test]"
+	files=[/usr/lib/go/src/debug/dwarf/attr_string.go /usr/lib/go/src/debug/dwarf/buf.go /usr/lib/go/src/debug/dwarf/class_string.go /usr/lib/go/src/debug/dwarf/const.go /usr/lib/go/src/debug/dwarf/entry.go /usr/lib/go/src/debug/dwarf/line.go /usr/lib/go/src/debug/dwarf/open.go /usr/lib/go/src/debug/dwarf/tag_string.go /usr/lib/go/src/debug/dwarf/type.go /usr/lib/go/src/debug/dwarf/typeunit.go /usr/lib/go/src/debug/dwarf/unit.go /usr/lib/go/src/debug/dwarf/dwarf5ranges_test.go /usr/lib/go/src/debug/dwarf/export_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors_test [internal/types/errors.test]"
+	files=[/usr/lib/go/src/internal/types/errors/codes_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/diff [internal/diff.test]"
+	files=[/usr/lib/go/src/internal/diff/diff.go /usr/lib/go/src/internal/diff/diff_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/buildcfg [internal/buildcfg.test]"
+	files=[/usr/lib/go/src/internal/buildcfg/cfg.go /usr/lib/go/src/internal/buildcfg/exp.go /usr/lib/go/src/internal/buildcfg/zbootstrap.go /usr/lib/go/src/internal/buildcfg/cfg_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/types/errors.test"
+	files=[/home/mihalic2040/.cache/go-build/02/029554a976f94222c0551904a8fe200fa04be789b8213c114f605845aba12f86-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="text/scanner [text/scanner.test]"
+	files=[/usr/lib/go/src/text/scanner/scanner.go /usr/lib/go/src/text/scanner/scanner_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/zstd.test"
+	files=[/home/mihalic2040/.cache/go-build/94/94c3e78abf79be763e5605d1c13e1decadc3ab0b7c2d06743450d94280ccc3d9-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/platform.test"
+	files=[/home/mihalic2040/.cache/go-build/e7/e7082e65856119128e5dbc3d14f3605bdc1415c72e14581c1740148a4757c518-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/build.test"
+	files=[/home/mihalic2040/.cache/go-build/2a/2a24d4b89a3d8c8eea2f142ccc3fdd96dc7b573db60b0a161ea113963b4297af-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/constant.test"
+	files=[/home/mihalic2040/.cache/go-build/58/583445e0700a8fe2773fdef84b84344a144e28b007bdfab093c213a38db43c7d-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/doc.test"
+	files=[/home/mihalic2040/.cache/go-build/1f/1f779c6c8a452c2676ef7895fe396fbf68da1d50aa2dca2fb02a44b994eca122-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/doc_test [go/doc.test]"
+	files=[/usr/lib/go/src/go/doc/example_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/importer [go/importer.test]"
+	files=[/usr/lib/go/src/go/importer/importer.go /usr/lib/go/src/go/importer/importer_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/gcimporter.test"
+	files=[/home/mihalic2040/.cache/go-build/e5/e5d4f29442487d34ffd9363922b946cd5dca8b9d988a80c7d1a2f326cc4a59d1-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/internal/srcimporter [go/internal/srcimporter.test]"
+	files=[/usr/lib/go/src/go/internal/srcimporter/srcimporter.go /usr/lib/go/src/go/internal/srcimporter/srcimporter_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types [go/types.test]"
+	files=[/usr/lib/go/src/go/types/api.go /usr/lib/go/src/go/types/array.go /usr/lib/go/src/go/types/assignments.go /usr/lib/go/src/go/types/basic.go /usr/lib/go/src/go/types/builtins.go /usr/lib/go/src/go/types/call.go /usr/lib/go/src/go/types/chan.go /usr/lib/go/src/go/types/check.go /usr/lib/go/src/go/types/const.go /usr/lib/go/src/go/types/context.go /usr/lib/go/src/go/types/conversions.go /usr/lib/go/src/go/types/decl.go /usr/lib/go/src/go/types/errors.go /usr/lib/go/src/go/types/eval.go /usr/lib/go/src/go/types/expr.go /usr/lib/go/src/go/types/exprstring.go /usr/lib/go/src/go/types/gccgosizes.go /usr/lib/go/src/go/types/generate.go /usr/lib/go/src/go/types/index.go /usr/lib/go/src/go/types/infer.go /usr/lib/go/src/go/types/initorder.go /usr/lib/go/src/go/types/instantiate.go /usr/lib/go/src/go/types/interface.go /usr/lib/go/src/go/types/labels.go /usr/lib/go/src/go/types/lookup.go /usr/lib/go/src/go/types/map.go /usr/lib/go/src/go/types/methodset.go /usr/lib/go/src/go/types/mono.go /usr/lib/go/src/go/types/named.go /usr/lib/go/src/go/types/object.go /usr/lib/go/src/go/types/objset.go /usr/lib/go/src/go/types/operand.go /usr/lib/go/src/go/types/package.go /usr/lib/go/src/go/types/pointer.go /usr/lib/go/src/go/types/predicates.go /usr/lib/go/src/go/types/resolver.go /usr/lib/go/src/go/types/return.go /usr/lib/go/src/go/types/scope.go /usr/lib/go/src/go/types/selection.go /usr/lib/go/src/go/types/signature.go /usr/lib/go/src/go/types/sizes.go /usr/lib/go/src/go/types/slice.go /usr/lib/go/src/go/types/stmt.go /usr/lib/go/src/go/types/struct.go /usr/lib/go/src/go/types/subst.go /usr/lib/go/src/go/types/termlist.go /usr/lib/go/src/go/types/tuple.go /usr/lib/go/src/go/types/type.go /usr/lib/go/src/go/types/typelists.go /usr/lib/go/src/go/types/typeparam.go /usr/lib/go/src/go/types/typeset.go /usr/lib/go/src/go/types/typestring.go /usr/lib/go/src/go/types/typeterm.go /usr/lib/go/src/go/types/typexpr.go /usr/lib/go/src/go/types/under.go /usr/lib/go/src/go/types/unify.go /usr/lib/go/src/go/types/union.go /usr/lib/go/src/go/types/universe.go /usr/lib/go/src/go/types/util.go /usr/lib/go/src/go/types/validtype.go /usr/lib/go/src/go/types/version.go /usr/lib/go/src/go/types/context_test.go /usr/lib/go/src/go/types/errors_test.go /usr/lib/go/src/go/types/sizeof_test.go /usr/lib/go/src/go/types/termlist_test.go /usr/lib/go/src/go/types/token_test.go /usr/lib/go/src/go/types/typeset_test.go /usr/lib/go/src/go/types/typeterm_test.go /usr/lib/go/src/go/types/util_test.go /usr/lib/go/src/go/types/version_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/diff.test"
+	files=[/home/mihalic2040/.cache/go-build/aa/aa50c4780d8dd3651030d2333c12af0caf78efb036c26e2a69200dc301eed552-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/saferio.test"
+	files=[/home/mihalic2040/.cache/go-build/4f/4f0a85d27fea6ced1a12734ba2f59cc496a7e84cc6fe8be6bbdfad513686301f-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/buildcfg.test"
+	files=[/home/mihalic2040/.cache/go-build/5a/5ad776da547b1caece20c31776a56cb56e6a835617ca4668f15cfbfc325e7926-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="debug/elf [debug/elf.test]"
+	files=[/usr/lib/go/src/debug/elf/elf.go /usr/lib/go/src/debug/elf/file.go /usr/lib/go/src/debug/elf/reader.go /usr/lib/go/src/debug/elf/elf_test.go /usr/lib/go/src/debug/elf/file_test.go /usr/lib/go/src/debug/elf/symbols_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/saferio [internal/saferio.test]"
+	files=[/usr/lib/go/src/internal/saferio/io.go /usr/lib/go/src/internal/saferio/io_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types_test [go/types.test]"
+	files=[/usr/lib/go/src/go/types/api_test.go /usr/lib/go/src/go/types/builtins_test.go /usr/lib/go/src/go/types/check_test.go /usr/lib/go/src/go/types/commentMap_test.go /usr/lib/go/src/go/types/errorcalls_test.go /usr/lib/go/src/go/types/eval_test.go /usr/lib/go/src/go/types/example_test.go /usr/lib/go/src/go/types/exprstring_test.go /usr/lib/go/src/go/types/generate_test.go /usr/lib/go/src/go/types/hilbert_test.go /usr/lib/go/src/go/types/instantiate_test.go /usr/lib/go/src/go/types/issues_test.go /usr/lib/go/src/go/types/lookup_test.go /usr/lib/go/src/go/types/main_test.go /usr/lib/go/src/go/types/methodset_test.go /usr/lib/go/src/go/types/mono_test.go /usr/lib/go/src/go/types/named_test.go /usr/lib/go/src/go/types/object_test.go /usr/lib/go/src/go/types/resolver_test.go /usr/lib/go/src/go/types/self_test.go /usr/lib/go/src/go/types/sizes_test.go /usr/lib/go/src/go/types/stdlib_test.go /usr/lib/go/src/go/types/typestring_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/testenv_test [internal/testenv.test]"
+	files=[/usr/lib/go/src/internal/testenv/testenv_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/testenv.test"
+	files=[/home/mihalic2040/.cache/go-build/07/0762c0bdec5e59c3a461ec658a79b0d56634e17396b1ddb3d5867beec50ad817-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/platform_test [internal/platform.test]"
+	files=[/usr/lib/go/src/internal/platform/zosarch_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/zstd [internal/zstd.test]"
+	files=[/usr/lib/go/src/internal/zstd/bits.go /usr/lib/go/src/internal/zstd/block.go /usr/lib/go/src/internal/zstd/fse.go /usr/lib/go/src/internal/zstd/huff.go /usr/lib/go/src/internal/zstd/literals.go /usr/lib/go/src/internal/zstd/xxhash.go /usr/lib/go/src/internal/zstd/zstd.go /usr/lib/go/src/internal/zstd/fse_test.go /usr/lib/go/src/internal/zstd/fuzz_test.go /usr/lib/go/src/internal/zstd/xxhash_test.go /usr/lib/go/src/internal/zstd/zstd_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/xcoff [internal/xcoff.test]"
+	files=[/usr/lib/go/src/internal/xcoff/ar.go /usr/lib/go/src/internal/xcoff/file.go /usr/lib/go/src/internal/xcoff/xcoff.go /usr/lib/go/src/internal/xcoff/ar_test.go /usr/lib/go/src/internal/xcoff/file_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="internal/xcoff.test"
+	files=[/home/mihalic2040/.cache/go-build/a5/a5e0c93940f47309dca0d43f8a7a177e8799e7f9b71c0719880f1176471b0fe9-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="text/scanner.test"
+	files=[/home/mihalic2040/.cache/go-build/fc/fcbee39bd370a0949481a5ae065c413bb5949c12d86f6a021a89a4b3c4caa872-d]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="text/scanner_test [text/scanner.test]"
+	files=[/usr/lib/go/src/text/scanner/example_test.go]
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34: updating metadata for 62 packages
+
+[Info  - 6:32:42 PM] 2023/12/20 18:32:42 go/packages.Load #34
+	snapshot=232
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	package="go/types.test"
+	files=[/home/mihalic2040/.cache/go-build/02/0255a439566ae3d30eab258d21b0a1f455ab6b79cb45141343ae359e079b3c3c-d]
+
+[Info  - 6:33:02 PM] 2023/12/20 18:33:02 background imports cache refresh starting
+
+[Info  - 6:33:02 PM] 2023/12/20 18:33:02 background refresh finished after 49.398063ms
+
+[Info  - 6:33:53 PM] 2023/12/20 18:33:53 background imports cache refresh starting
+
+[Info  - 6:33:53 PM] 2023/12/20 18:33:53 background refresh finished after 22.086984ms
+
+[Error - 6:33:59 PM] 2023/12/20 18:33:59 imports fixes: AllImportsFixes: /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:86:4: expected ';', found bootstrap
+	file="/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go"
+
+[Info  - 6:34:23 PM] 2023/12/20 18:34:23 background imports cache refresh starting
+
+[Info  - 6:34:23 PM] 2023/12/20 18:34:23 background refresh finished after 18.475254ms
+
+[Info  - 6:35:11 PM] 2023/12/20 18:35:11 background imports cache refresh starting
+
+[Info  - 6:35:11 PM] 2023/12/20 18:35:11 background refresh finished after 44.889279ms
+
+[Info  - 7:29:06 PM] 2023/12/20 19:29:06 background imports cache refresh starting
+
+[Info  - 7:29:06 PM] 2023/12/20 19:29:06 background refresh finished after 19.108196ms
+
+[Info  - 7:32:02 PM] 2023/12/20 19:32:02 Shutdown session
+	shutdown_session=1
+

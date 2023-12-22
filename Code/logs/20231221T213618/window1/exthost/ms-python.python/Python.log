@@ -1,0 +1,21 @@
+2023-12-21 21:37:25.316 [info] Experiment 'pythonaa' is active
+2023-12-21 21:37:25.316 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-21 21:37:25.316 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-21 21:37:25.316 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-12-21 21:37:25.316 [info] Experiment 'pythonTestAdapter' is active
+2023-12-21 21:37:25.316 [info] Default formatter is set to null for workspace /home/mihalic2040/Desktop/INfa/Orig/lab13/BigBob
+2023-12-21 21:37:25.316 [info] Test server listening.
+2023-12-21 21:37:25.316 [info] Python interpreter path: /bin/python
+2023-12-21 21:37:25.319 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-21 21:37:25.319 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 21:37:25.319 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 21:37:25.319 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 21:37:25.334 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2023-12-21 21:37:26.377 [info] Starting Pylance language server.
+2023-12-21 21:40:13.589 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:40:14.434 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:40:15.272 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:40:57.109 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:41:04.489 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:43:52.183 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json
+2023-12-21 21:43:52.512 [info] Discover tests for workspace name: undefined - uri: /home/mihalic2040/.config/Code/User/settings.json

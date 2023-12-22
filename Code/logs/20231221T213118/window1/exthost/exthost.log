@@ -1,0 +1,17 @@
+2023-12-21 21:31:19.260 [info] Extension host with pid 28642 started
+2023-12-21 21:31:19.260 [info] Skipping acquiring lock for /home/mihalic2040/.config/Code/User/workspaceStorage/56a896c52e7a5c683949e041bc072b85.
+2023-12-21 21:31:19.473 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-21 21:31:19.480 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-21 21:31:19.668 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-21 21:31:19.975 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-21 21:31:20.008 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-21 21:31:20.029 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-21 21:31:20.066 [info] Eager extensions activated
+2023-12-21 21:31:20.121 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 21:31:20.122 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 21:31:20.127 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 21:31:20.131 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 21:31:54.284 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-21 21:31:54.302 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-21 21:35:24.339 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-21 21:35:24.369 [info] Extension host with pid 28642 exiting with code 0

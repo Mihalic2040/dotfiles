@@ -1,0 +1,487 @@
+{
+	"file_history":
+	[
+		"/home/mihalic2040/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/mihalic2040/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/mihalic2040/.wine/drive_c/users/mihalic2040/Documents/Rockstar Games/GTA V/settings.xml"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1702644050,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 2096.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			1923.0,
+			49.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/tmp/ark-bOINKj/README.txt",
+				"/home/mihalic2040/.wine/drive_c/users/mihalic2040/Documents/Rockstar Games/GTA V/settings.xml"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1914.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\n\n\nNmap",
+					"settings":
+					{
+						"buffer_size": 7,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "===="
+							},
+							"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							5,
+							"left_delete",
+							null,
+							"BAAAAAMAAAAAAAAAAwAAAAAAAAABAAAAPQIAAAAAAAAAAgAAAAAAAAABAAAAPQEAAAAAAAAAAQAAAAAAAAABAAAAPQAAAAAAAAAAAAAAAAAAAAABAAAAPQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\nNam"
+							},
+							"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAUAAAAAAAAABQAAAAAAAAABAAAAbQQAAAAAAAAABAAAAAAAAAABAAAAYQMAAAAAAAAAAwAAAAAAAAABAAAATg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "Nmaop"
+							},
+							"BQAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAcAAAAAAAAABwAAAAAAAAABAAAAcAYAAAAAAAAABgAAAAAAAAABAAAAbw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "p"
+							},
+							"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"contents": "Installing\n==========\n\nWindows\n-------\n\nIn the ttf folder, double-click each font file, click “Install font”; to install all at once, select all files, right-click, and choose “Install”\n\nOR\n\nUse https://chocolatey.org:\n\n    choco install firacode\n\n\nmacOS\n-----\n\nIn the downloaded TTF folder:\n\n1.  Select all font files\n2.  Right click and select `Open` (alternatively `Open With Font Book`)\n3.  Select \"Install Font\"\n\nOR\n\nUse http://brew.sh:\n\n    `brew tap homebrew/cask-fonts`\n    `brew install font-fira-code`\n\n\nUbuntu Zesty (17.04), Debian Stretch (9) or newer\n-------------------------------------------------\n\n1. Make sure that the `universe` (for Ubuntu) or `contrib` (for Debian) repository is enabled (see https://askubuntu.com/questions/148638/how-do-i-enable-the-universe-repository or https://wiki.debian.org/SourcesList#Component)\n2. Install `fonts-firacode` package either by executing `sudo apt install fonts-firacode` in the terminal or via GUI tool (like “Software Center”)\n\n\nArch Linux\n----------\n\nFira Code package is available in the official repository: https://www.archlinux.org/packages/community/any/ttf-fira-code/.\n\nVariant of Fira Code package is available in the AUR: https://aur.archlinux.org/packages/otf-fira-code-git/.\n\n\nGentoo\n------\n\n    emerge -av media-fonts/fira-code\n\n\nFedora\n------\n\nTo install, perform the following commands:\n\n    dnf install fira-code-fonts\n\n\nSolus\n-----\n\nFira Code package is available in the official repository: `font-firacode-ttf` and `font-firacode-otf`.  \nThey can be installed by running:\n\n    sudo eopkg install font-firacode-ttf font-firacode-otf\n\n\nVoid linux\n----------\n\n    xbps-install font-firacode\n\n\nLinux Manual Installation\n-------------------------\n\nWith most desktop-oriented distributions, double-clicking each font file in the ttf folder and selecting “Install font” should be enough. If it isn’t, create and run `download_and_install.sh` script:\n\n    #!/usr/bin/env bash\n\n    fonts_dir=\"${HOME}/.local/share/fonts\"\n    if [ ! -d \"${fonts_dir}\" ]; then\n        echo \"mkdir -p $fonts_dir\"\n        mkdir -p \"${fonts_dir}\"\n    else\n        echo \"Found fonts dir $fonts_dir\"\n    fi\n\n    for type in Bold Light Medium Regular Retina; do\n        file_path=\"${HOME}/.local/share/fonts/FiraCode-${type}.ttf\"\n        file_url=\"https://github.com/tonsky/FiraCode/blob/master/distr/ttf/FiraCode-${type}.ttf?raw=true\"\n        if [ ! -e \"${file_path}\" ]; then\n            echo \"wget -O $file_path $file_url\"\n            wget -O \"${file_path}\" \"${file_url}\"\n        else\n      echo \"Found existing file $file_path\"\n        fi;\n    done\n\n    echo \"fc-cache -f\"\n    fc-cache -f\n\nMore details: https://github.com/tonsky/FiraCode/issues/4\n\n\nFreeBSD\n-------\n\nUsing pkg(8):\n\n    pkg install firacode\n\nOR\n\nUsing ports:\n\n    cd /usr/ports/x11-fonts/firacode && make install clean\n\n\nEnabling ligatures\n==================\n\nAtom\n----\n\nTo change your font to Fira Code, open Atom's preferences (`cmd + ,` on a Mac, `ctrl + ,` on PC), make sure the \"Settings\" tab is selected, or the \"Editor\" in Atom 1.10+, and scroll down to \"Editor Settings\". In the \"Font Family\" field, enter `Fira Code`.\n\nIf you wish to specify a font weight, for example, Light, use `Fira Code Light` as a font name (Windows) or `FiraCode-Light` (macOS).\n\nLigatures are enabled by default in Atom 1.9 and above.\n\n\nVS Code\n-------\n\nTo open the settings editor, first from the File menu choose Preferences, Settings or use keyboard shortcut `Ctrl + ,` (Windows) or `Cmd + ,` (macOS).\n\nTo enable FiraCode in the settings editor, under \"Commonly Used\", expand the \"Text Editor\" settings and then click on \"Font\". In the \"Font Family\" input box type `Fira Code`, replacing any content. Tick the check box \"Enables/Disables font ligatures\" under \"Font Ligatures\" to enable the special ligatures.\n\nIf you wish to specify a font weight, for example, Light, use `Fira Code Light` as a font name (Windows) or `FiraCode-Light` (macOS).\n\n\nIntelliJ products\n-----------------\n\n1. Enable in Settings → Editor → Font → Enable Font Ligatures\n2. Select `Fira Code` as \"Primary font\" under Settings → Editor → Font\n\nAdditionally, if a Color Scheme is selected:\n\n3. Enable in Settings → Editor → Color Scheme → Color Scheme Font → Enable Font Ligatures\n4. Select Fira Code as \"Primary font\" under Settings → Editor → Color Scheme → Color Scheme Font\n\n\nBBEdit, TextWrangler\n--------------------\n\nRun in your terminal:\n\n    defaults write com.barebones.bbedit \"EnableFontLigatures_Fira Code\" -bool YES\n\nSource: https://www.barebones.com/support/bbedit/ExpertPreferences.html\n\n\nBrackets\n--------\n\n1. From the `View` menu choose `Themes....`\n2. Paste `'Fira Code'`, at the beginning of `Font Family`\n\n\nEmacs\n-----\n\nThere are a few options when it comes down to using ligatures in\nEmacs. They are listed in order of preferred to less-preferred. Pick one!\n\n1. Using composition mode in Emacs Mac port\n\nIf you're using the latest Mac port of Emacs (https://bitbucket.org/mituharu/emacs-mac by Mitsuharu Yamamoto) for macOS, you can use:\n\n    (mac-auto-operator-composition-mode)\n\nThis is generally the easiest solution, but can only be used on macOS.\n\n2. Using prettify-symbols\n\nThese instructions are pieced together by https://github.com/Triavanicus, taking some pieces from https://github.com/minad/hasklig-mode.\n\nThis method requires you to install the Fira Code Symbol font, made by https://github.com/siegebell:\nhttps://github.com/tonsky/FiraCode/issues/211#issuecomment-239058632\n\n    (defun fira-code-mode--make-alist (list)\n      \"Generate prettify-symbols alist from LIST.\"\n      (let ((idx -1))\n        (mapcar\n         (lambda (s)\n           (setq idx (1+ idx))\n           (let* ((code (+ #Xe100 idx))\n              (width (string-width s))\n              (prefix ())\n              (suffix '(?\\s (Br . Br)))\n              (n 1))\n         (while (< n width)\n           (setq prefix (append prefix '(?\\s (Br . Bl))))\n           (setq n (1+ n)))\n         (cons s (append prefix suffix (list (decode-char 'ucs code))))))\n         list)))\n\n    (defconst fira-code-mode--ligatures\n      '(\"www\" \"**\" \"***\" \"**/\" \"*>\" \"*/\" \"\\\\\\\\\" \"\\\\\\\\\\\\\"\n        \"{-\" \"[]\" \"::\" \":::\" \":=\" \"!!\" \"!=\" \"!==\" \"-}\"\n        \"--\" \"---\" \"-->\" \"->\" \"->>\" \"-<\" \"-<<\" \"-~\"\n        \"#{\" \"#[\" \"##\" \"###\" \"####\" \"#(\" \"#?\" \"#_\" \"#_(\"\n        \".-\" \".=\" \"..\" \"..<\" \"...\" \"?=\" \"??\" \";;\" \"/*\"\n        \"/**\" \"/=\" \"/==\" \"/>\" \"//\" \"///\" \"&&\" \"||\" \"||=\"\n        \"|=\" \"|>\" \"^=\" \"$>\" \"++\" \"+++\" \"+>\" \"=:=\" \"==\"\n        \"===\" \"==>\" \"=>\" \"=>>\" \"<=\" \"=<<\" \"=/=\" \">-\" \">=\"\n        \">=>\" \">>\" \">>-\" \">>=\" \">>>\" \"<*\" \"<*>\" \"<|\" \"<|>\"\n        \"<$\" \"<$>\" \"<!--\" \"<-\" \"<--\" \"<->\" \"<+\" \"<+>\" \"<=\"\n        \"<==\" \"<=>\" \"<=<\" \"<>\" \"<<\" \"<<-\" \"<<=\" \"<<<\" \"<~\"\n        \"<~~\" \"</\" \"</>\" \"~@\" \"~-\" \"~=\" \"~>\" \"~~\" \"~~>\" \"%%\"\n        \"x\" \":\" \"+\" \"+\" \"*\"))\n\n    (defvar fira-code-mode--old-prettify-alist)\n\n    (defun fira-code-mode--enable ()\n      \"Enable Fira Code ligatures in current buffer.\"\n      (setq-local fira-code-mode--old-prettify-alist prettify-symbols-alist)\n      (setq-local prettify-symbols-alist (append (fira-code-mode--make-alist fira-code-mode--ligatures) fira-code-mode--old-prettify-alist))\n      (prettify-symbols-mode t))\n\n    (defun fira-code-mode--disable ()\n      \"Disable Fira Code ligatures in current buffer.\"\n      (setq-local prettify-symbols-alist fira-code-mode--old-prettify-alist)\n      (prettify-symbols-mode -1))\n\n    (define-minor-mode fira-code-mode\n      \"Fira Code ligatures minor mode\"\n      :lighter \" Fira Code\"\n      (setq-local prettify-symbols-unprettify-at-point 'right-edge)\n      (if fira-code-mode\n          (fira-code-mode--enable)\n        (fira-code-mode--disable)))\n\n    (defun fira-code-mode--setup ()\n      \"Setup Fira Code Symbols\"\n      (set-fontset-font t '(#Xe100 . #Xe16f) \"Fira Code Symbol\"))\n\n    (provide 'fira-code-mode)\n\nAlternative instructions: https://github.com/Profpatsch/blog/blob/master/posts/ligature-emulation-in-emacs/post.md#appendix-b-update-1-firacode-integration\n\n3. Using composition char table\n\nThanks to https://github.com/seanfarley for putting this together; extended by https://github.com/jrblevin.\n\nPut this lisp in your .emacs:\n\n    (when (window-system)\n      (set-frame-font \"Fira Code\"))\n    (let ((alist '((33 . \".\\\\(?:\\\\(?:==\\\\|!!\\\\)\\\\|[!=]\\\\)\")\n                   (35 . \".\\\\(?:###\\\\|##\\\\|_(\\\\|[#(?[_{]\\\\)\")\n                   (36 . \".\\\\(?:>\\\\)\")\n                   (37 . \".\\\\(?:\\\\(?:%%\\\\)\\\\|%\\\\)\")\n                   (38 . \".\\\\(?:\\\\(?:&&\\\\)\\\\|&\\\\)\")\n                   (42 . \".\\\\(?:\\\\(?:\\\\*\\\\*/\\\\)\\\\|\\\\(?:\\\\*[*/]\\\\)\\\\|[*/>]\\\\)\")\n                   (43 . \".\\\\(?:\\\\(?:\\\\+\\\\+\\\\)\\\\|[+>]\\\\)\")\n                   (45 . \".\\\\(?:\\\\(?:-[>-]\\\\|<<\\\\|>>\\\\)\\\\|[<>}~-]\\\\)\")\n                   (46 . \".\\\\(?:\\\\(?:\\\\.[.<]\\\\)\\\\|[.=-]\\\\)\")\n                   (47 . \".\\\\(?:\\\\(?:\\\\*\\\\*\\\\|//\\\\|==\\\\)\\\\|[*/=>]\\\\)\")\n                   (48 . \".\\\\(?:x[a-zA-Z]\\\\)\")\n                   (58 . \".\\\\(?:::\\\\|[:=]\\\\)\")\n                   (59 . \".\\\\(?:;;\\\\|;\\\\)\")\n                   (60 . \".\\\\(?:\\\\(?:!--\\\\)\\\\|\\\\(?:~~\\\\|->\\\\|\\\\$>\\\\|\\\\*>\\\\|\\\\+>\\\\|--\\\\|<[<=-]\\\\|=[<=>]\\\\||>\\\\)\\\\|[*$+~/<=>|-]\\\\)\")\n                   (61 . \".\\\\(?:\\\\(?:/=\\\\|:=\\\\|<<\\\\|=[=>]\\\\|>>\\\\)\\\\|[<=>~]\\\\)\")\n                   (62 . \".\\\\(?:\\\\(?:=>\\\\|>[=>-]\\\\)\\\\|[=>-]\\\\)\")\n                   (63 . \".\\\\(?:\\\\(\\\\?\\\\?\\\\)\\\\|[:=?]\\\\)\")\n                   (91 . \".\\\\(?:]\\\\)\")\n                   (92 . \".\\\\(?:\\\\(?:\\\\\\\\\\\\\\\\\\\\)\\\\|\\\\\\\\\\\\)\")\n                   (94 . \".\\\\(?:=\\\\)\")\n                   (119 . \".\\\\(?:ww\\\\)\")\n                   (123 . \".\\\\(?:-\\\\)\")\n                   (124 . \".\\\\(?:\\\\(?:|[=|]\\\\)\\\\|[=>|]\\\\)\")\n                   (126 . \".\\\\(?:~>\\\\|~~\\\\|[>=@~-]\\\\)\")\n                   )\n                 ))\n      (dolist (char-regexp alist)\n        (set-char-table-range composition-function-table (car char-regexp)\n                              `([,(cdr char-regexp) 0 font-shape-gstring]))))\n\n**Note!** If you get `error in process filter: Attempt to shape unibyte text`, check out https://github.com/tonsky/FiraCode/issues/42. Emacs Cider users may avoid this issue by commenting the following line from the above config:\n\n    ;; (46 . \".\\\\(?:\\\\(?:\\\\.[.<]\\\\)\\\\|[.=-]\\\\)\")\n\nChar `45` is also known to have issues in macOS Mojave.\n\nIf you are having problems with helm you can disable ligatures in helm:\n\n    (add-hook 'helm-major-mode-hook\n           (lambda ()\n             (setq auto-composition-mode nil)))\n\n4. Using font-lock keywords\n\nIf none of the above worked, you can try this method.\n\nThis method requires you to install the Fira Code Symbol font, made by https://github.com/siegebell:\nhttps://github.com/tonsky/FiraCode/issues/211#issuecomment-239058632\n\n    ;;; Fira code\n    ;; This works when using emacs --daemon + emacsclient\n    (add-hook 'after-make-frame-functions (lambda (frame) (set-fontset-font t '(#Xe100 . #Xe16f) \"Fira Code Symbol\")))\n    ;; This works when using emacs without server/client\n    (set-fontset-font t '(#Xe100 . #Xe16f) \"Fira Code Symbol\")\n    ;; I haven't found one statement that makes both of the above situations work, so I use both for now\n\n    (defconst fira-code-font-lock-keywords-alist\n      (mapcar (lambda (regex-char-pair)\n                `(,(car regex-char-pair)\n                  (0 (prog1 ()\n                       (compose-region (match-beginning 1)\n                                       (match-end 1)\n                                       ;; The first argument to concat is a string containing a literal tab\n                                       ,(concat \"   \" (list (decode-char 'ucs (cadr regex-char-pair)))))))))\n              '((\"\\\\(www\\\\)\"                   #Xe100)\n                (\"[^/]\\\\(\\\\*\\\\*\\\\)[^/]\"        #Xe101)\n                (\"\\\\(\\\\*\\\\*\\\\*\\\\)\"             #Xe102)\n                (\"\\\\(\\\\*\\\\*/\\\\)\"               #Xe103)\n                (\"\\\\(\\\\*>\\\\)\"                  #Xe104)\n                (\"[^*]\\\\(\\\\*/\\\\)\"              #Xe105)\n                (\"\\\\(\\\\\\\\\\\\\\\\\\\\)\"              #Xe106)\n                (\"\\\\(\\\\\\\\\\\\\\\\\\\\\\\\\\\\)\"          #Xe107)\n                (\"\\\\({-\\\\)\"                    #Xe108)\n                (\"\\\\(\\\\[\\\\]\\\\)\"                #Xe109)\n                (\"\\\\(::\\\\)\"                    #Xe10a)\n                (\"\\\\(:::\\\\)\"                   #Xe10b)\n                (\"[^=]\\\\(:=\\\\)\"                #Xe10c)\n                (\"\\\\(!!\\\\)\"                    #Xe10d)\n                (\"\\\\(!=\\\\)\"                    #Xe10e)\n                (\"\\\\(!==\\\\)\"                   #Xe10f)\n                (\"\\\\(-}\\\\)\"                    #Xe110)\n                (\"\\\\(--\\\\)\"                    #Xe111)\n                (\"\\\\(---\\\\)\"                   #Xe112)\n                (\"\\\\(-->\\\\)\"                   #Xe113)\n                (\"[^-]\\\\(->\\\\)\"                #Xe114)\n                (\"\\\\(->>\\\\)\"                   #Xe115)\n                (\"\\\\(-<\\\\)\"                    #Xe116)\n                (\"\\\\(-<<\\\\)\"                   #Xe117)\n                (\"\\\\(-~\\\\)\"                    #Xe118)\n                (\"\\\\(#{\\\\)\"                    #Xe119)\n                (\"\\\\(#\\\\[\\\\)\"                  #Xe11a)\n                (\"\\\\(##\\\\)\"                    #Xe11b)\n                (\"\\\\(###\\\\)\"                   #Xe11c)\n                (\"\\\\(####\\\\)\"                  #Xe11d)\n                (\"\\\\(#(\\\\)\"                    #Xe11e)\n                (\"\\\\(#\\\\?\\\\)\"                  #Xe11f)\n                (\"\\\\(#_\\\\)\"                    #Xe120)\n                (\"\\\\(#_(\\\\)\"                   #Xe121)\n                (\"\\\\(\\\\.-\\\\)\"                  #Xe122)\n                (\"\\\\(\\\\.=\\\\)\"                  #Xe123)\n                (\"\\\\(\\\\.\\\\.\\\\)\"                #Xe124)\n                (\"\\\\(\\\\.\\\\.<\\\\)\"               #Xe125)\n                (\"\\\\(\\\\.\\\\.\\\\.\\\\)\"             #Xe126)\n                (\"\\\\(\\\\?=\\\\)\"                  #Xe127)\n                (\"\\\\(\\\\?\\\\?\\\\)\"                #Xe128)\n                (\"\\\\(;;\\\\)\"                    #Xe129)\n                (\"\\\\(/\\\\*\\\\)\"                  #Xe12a)\n                (\"\\\\(/\\\\*\\\\*\\\\)\"               #Xe12b)\n                (\"\\\\(/=\\\\)\"                    #Xe12c)\n                (\"\\\\(/==\\\\)\"                   #Xe12d)\n                (\"\\\\(/>\\\\)\"                    #Xe12e)\n                (\"\\\\(//\\\\)\"                    #Xe12f)\n                (\"\\\\(///\\\\)\"                   #Xe130)\n                (\"\\\\(&&\\\\)\"                    #Xe131)\n                (\"\\\\(||\\\\)\"                    #Xe132)\n                (\"\\\\(||=\\\\)\"                   #Xe133)\n                (\"[^|]\\\\(|=\\\\)\"                #Xe134)\n                (\"\\\\(|>\\\\)\"                    #Xe135)\n                (\"\\\\(\\\\^=\\\\)\"                  #Xe136)\n                (\"\\\\(\\\\$>\\\\)\"                  #Xe137)\n                (\"\\\\(\\\\+\\\\+\\\\)\"                #Xe138)\n                (\"\\\\(\\\\+\\\\+\\\\+\\\\)\"             #Xe139)\n                (\"\\\\(\\\\+>\\\\)\"                  #Xe13a)\n                (\"\\\\(=:=\\\\)\"                   #Xe13b)\n                (\"[^!/]\\\\(==\\\\)[^>]\"           #Xe13c)\n                (\"\\\\(===\\\\)\"                   #Xe13d)\n                (\"\\\\(==>\\\\)\"                   #Xe13e)\n                (\"[^=]\\\\(=>\\\\)\"                #Xe13f)\n                (\"\\\\(=>>\\\\)\"                   #Xe140)\n                (\"\\\\(<=\\\\)\"                    #Xe141)\n                (\"\\\\(=<<\\\\)\"                   #Xe142)\n                (\"\\\\(=/=\\\\)\"                   #Xe143)\n                (\"\\\\(>-\\\\)\"                    #Xe144)\n                (\"\\\\(>=\\\\)\"                    #Xe145)\n                (\"\\\\(>=>\\\\)\"                   #Xe146)\n                (\"[^-=]\\\\(>>\\\\)\"               #Xe147)\n                (\"\\\\(>>-\\\\)\"                   #Xe148)\n                (\"\\\\(>>=\\\\)\"                   #Xe149)\n                (\"\\\\(>>>\\\\)\"                   #Xe14a)\n                (\"\\\\(<\\\\*\\\\)\"                  #Xe14b)\n                (\"\\\\(<\\\\*>\\\\)\"                 #Xe14c)\n                (\"\\\\(<|\\\\)\"                    #Xe14d)\n                (\"\\\\(<|>\\\\)\"                   #Xe14e)\n                (\"\\\\(<\\\\$\\\\)\"                  #Xe14f)\n                (\"\\\\(<\\\\$>\\\\)\"                 #Xe150)\n                (\"\\\\(<!--\\\\)\"                  #Xe151)\n                (\"\\\\(<-\\\\)\"                    #Xe152)\n                (\"\\\\(<--\\\\)\"                   #Xe153)\n                (\"\\\\(<->\\\\)\"                   #Xe154)\n                (\"\\\\(<\\\\+\\\\)\"                  #Xe155)\n                (\"\\\\(<\\\\+>\\\\)\"                 #Xe156)\n                (\"\\\\(<=\\\\)\"                    #Xe157)\n                (\"\\\\(<==\\\\)\"                   #Xe158)\n                (\"\\\\(<=>\\\\)\"                   #Xe159)\n                (\"\\\\(<=<\\\\)\"                   #Xe15a)\n                (\"\\\\(<>\\\\)\"                    #Xe15b)\n                (\"[^-=]\\\\(<<\\\\)\"               #Xe15c)\n                (\"\\\\(<<-\\\\)\"                   #Xe15d)\n                (\"\\\\(<<=\\\\)\"                   #Xe15e)\n                (\"\\\\(<<<\\\\)\"                   #Xe15f)\n                (\"\\\\(<~\\\\)\"                    #Xe160)\n                (\"\\\\(<~~\\\\)\"                   #Xe161)\n                (\"\\\\(</\\\\)\"                    #Xe162)\n                (\"\\\\(</>\\\\)\"                   #Xe163)\n                (\"\\\\(~@\\\\)\"                    #Xe164)\n                (\"\\\\(~-\\\\)\"                    #Xe165)\n                (\"\\\\(~=\\\\)\"                    #Xe166)\n                (\"\\\\(~>\\\\)\"                    #Xe167)\n                (\"[^<]\\\\(~~\\\\)\"                #Xe168)\n                (\"\\\\(~~>\\\\)\"                   #Xe169)\n                (\"\\\\(%%\\\\)\"                    #Xe16a)\n                (\"[0\\[]\\\\(x\\\\)\"                #Xe16b)\n                (\"[^:=]\\\\(:\\\\)[^:=]\"           #Xe16c)\n                (\"[^\\\\+<>]\\\\(\\\\+\\\\)[^\\\\+<>]\"   #Xe16d)\n                (\"[^\\\\*/<>]\\\\(\\\\*\\\\)[^\\\\*/<>]\" #Xe16f))))\n\n    (defun add-fira-code-symbol-keywords ()\n      (font-lock-add-keywords nil fira-code-font-lock-keywords-alist))\n\n    (add-hook 'prog-mode-hook\n              #'add-fira-code-symbol-keywords)\n\nOn some systems, `==` will appear incorrectly as a blank space in certain modes unless you add the following lines to your init file:\n\n    (set-language-environment \"UTF-8\")\n    (set-default-coding-systems 'utf-8)\n\n\nGoormIDE\n--------\n\nIn a workspace:\n\n1. Click goormIDE, then Preferences.\n2. Go to Theme, then focus Custom Theme CSS.\n3. Copy & paste the following:\n\n    @font-face{\n        font-family: 'Fira Code';\n        src: url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/eot/FiraCode-Regular.eot') format('embedded-opentype'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/woff2/FiraCode-Regular.woff2') format('woff2'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/woff/FiraCode-Regular.woff') format('woff'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf') format('truetype');\n        font-weight: normal;\n        font-style: normal;\n    }\n\n    .editor_container pre {\n        -webkit-font-feature-settings: \"liga\" on, \"calt\" on;\n        -webkit-font-smoothing: antialiased;\n        text-rendering: optimizeLegibility;\n        font-family: 'Fira Code';\n    }\n\n4. Click Aplly or OK\n5. Happy coding!\n\n\nCloud9\n------\n\nIn a workspace:\n\n1. Click Cloud9, then Preferences (or use keyboard shortcut CTRL + ,)\n2. Go to Themes, then click on You can also style Cloud9 by editing your stylesheet (this will open a blank styles.css file in the C9 editor)\n3. Copy & paste the following:\n\n    @font-face{\n        font-family: 'Fira Code';\n        src: url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/eot/FiraCode-Regular.eot') format('embedded-opentype'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/woff2/FiraCode-Regular.woff2') format('woff2'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/woff/FiraCode-Regular.woff') format('woff'),\n             url('https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf') format('truetype');\n        font-weight: normal;\n        font-style: normal;\n    }\n\n    .ace_editor{\n        -webkit-font-feature-settings: \"liga\" on, \"calt\" on;\n        -webkit-font-smoothing: antialiased;\n        text-rendering: optimizeLegibility;\n        font-family: 'Fira Code';\n    }\n\n4. Back in Preferences tab, click on User Settings, then click on Code Editor (Ace)\n5. In Font Family field, enter Fira Code\n6. Optionally, repeat step 5 for Preferences > User Settings > Terminal, if you want Fira Code font in C9 terminal.\n\n\nMacVim\n------\n\nAdd this to ~/.gvimrc:\n\n    set macligatures\n    set guifont=Fira\\ Code:h12\n\nMacVim supports ligatures starting from version 7.4.\n\n\nRStudio\n-------\n\nIn RStudio:\n\n1. Go to Tools > Global Options > Appearance\n2. Select \"Fira Code\" as Editor Font. In older versions of RStudio, check \"Use Ligatures\".\n3. Hit \"OK\" and enjoy\n\n\nSublime Text\n------------\n\nPreferences --> Settings\n\nAdd before \"ignored_packages\":\n\n    \"font_face\": \"Fira Code\",\n    \"font_options\": [\"subpixel_antialias\"],\n\nIf you want enable antialias, add in font_options: \"gray_antialias\"\n\n\nVisual Studio\n-------------\n\n1. Launch Visual Studio (2015 or later).\n2. Launch the Options dialog by opening the \"Tools\" menu and selecting \"Options\". \n3. In the Options dialog, under the \"Environment\" category, you'll find \"Fonts and Colors\". Click on that. You'll see a combo-box on the right hand side of the dialog labelled \"Font\". Select \"Fira Code\" from that combo-box. \n4. Click \"OK\" to dismiss.\n5. Restart Visual Studio.\n\nNow, most FiraCode ligatures will work. A notable exception is the hyphen-based ligatures (e.g. the C++ dereference '->'). See https://github.com/tonsky/FiraCode/issues/422 for details.\n\n\nTroubleshooting\n===============\n\nSee https://github.com/tonsky/FiraCode/wiki/Troubleshooting\n",
+					"file": "/tmp/ark-bOINKj/README.txt",
+					"file_size": 21793,
+					"file_write_time": 132832906340000000,
+					"settings":
+					{
+						"buffer_size": 21751,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mihalic2040/.wine/drive_c/users/mihalic2040/Documents/Rockstar Games/GTA V/settings.xml"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7,
+										7
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/tmp/ark-bOINKj/README.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21751,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1250,
+										1250
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2009.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1920,0,3834,2096,3840,2160,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

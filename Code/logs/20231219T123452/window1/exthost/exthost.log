@@ -1,0 +1,13 @@
+2023-12-19 12:34:53.963 [info] Extension host with pid 11954 started
+2023-12-19 12:34:53.964 [info] Skipping acquiring lock for /home/mihalic2040/.config/Code/User/workspaceStorage/3a6cbf0469d596bf92f034f27aec8a57.
+2023-12-19 12:34:54.026 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-19 12:34:54.052 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-19 12:34:54.083 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-19 12:34:54.318 [info] Eager extensions activated
+2023-12-19 12:34:54.337 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 12:34:54.339 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 12:34:54.345 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 12:34:54.352 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 12:35:36.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-19 12:35:43.673 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-19 12:35:43.690 [info] Extension host with pid 11954 exiting with code 0

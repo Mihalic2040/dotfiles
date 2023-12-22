@@ -1,0 +1,5 @@
+CMS
+Nmap
+nginx
+surveillance.htb
+checksum_v1 = 91bd2d14ca003ba7bb8fad50b495d4b7

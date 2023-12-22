@@ -1,0 +1,3 @@
+2023-12-19 18:15:46.262 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-19 18:15:46.513 [info] Started local extension host with pid 32721.
+2023-12-19 18:15:49.480 [info] [perf] Render performance baseline is 28ms

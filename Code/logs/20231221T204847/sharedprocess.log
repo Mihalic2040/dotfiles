@@ -1,0 +1,15 @@
+2023-12-21 20:48:55.217 [info] Getting Manifest... golang.go
+2023-12-21 20:48:55.322 [info] Installing extension: golang.go
+2023-12-21 20:48:56.342 [warning] Extension signature verification failed with error 'UnknownError': golang.go
+2023-12-21 20:48:56.389 [info] Extracted extension to file:///home/mihalic2040/.vscode/extensions/golang.go-0.40.1: golang.go
+2023-12-21 20:48:56.395 [info] Renamed to /home/mihalic2040/.vscode/extensions/golang.go-0.40.1
+2023-12-21 20:48:56.396 [info] Extracting extension completed. golang.go
+2023-12-21 20:48:56.405 [info] Extension installed successfully: golang.go
+2023-12-21 20:48:56.409 [info] Marked extension as uninstalled golang.go-0.40.0
+2023-12-21 20:48:56.481 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mihalic2040/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mihalic2040/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

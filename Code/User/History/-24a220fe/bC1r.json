@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Hacker",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 24,
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme"
+}

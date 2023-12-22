@@ -1,0 +1,1165 @@
+{
+  "Name": "CurseClient",
+  "Process": "Curse.Agent.Host",
+  "PID": 12200,
+  "Arguments": [
+    "/tmp/.mount_CurseF1ClEA0/resources/app.asar.unpacked/plugins/curse/linux/Curse.Agent.Host",
+    "--port=55816",
+    "--to-port=55836",
+    "--pid=12072",
+    "--appDataPath=/home/mihalic2040/.config/CurseForge",
+    "--clientId=Overwolf"
+  ],
+  "ProcessStart": "2023-12-15T15:11:49.3942284Z",
+  "Version": "0.240.3.15214",
+  "BuildDate": "2000-01-04T06:27:08Z",
+  "Start": "2023-12-15T17:11:50.1685714+02:00",
+  "Log": [
+{
+  "timestamp": "2023-12-15T17:11:50.1575417+02:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Failed to modified BuiltInConverters: Cannot set initonly static field 'BuiltInConverters' after type 'Newtonsoft.Json.Serialization.DefaultContractResolver' is initialized."
+},
+{
+  "timestamp": "2023-12-15T17:11:50.1639964+02:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Startup Name: CurseForge, Version: 0.240.3.15214"
+},
+{
+  "timestamp": "2023-12-15T17:11:50.1656652+02:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Running Mods Agent with args: --port=55816,--to-port=55836,--pid=12072,--appDataPath=/home/mihalic2040/.config/CurseForge,--clientId=Overwolf"
+},
+{
+  "timestamp": "2023-12-15T17:11:50.1683914+02:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "start monitor process: 12072"
+},
+{
+  "timestamp": "2023-12-15T17:11:50.9106426+02:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "missing implementation of: getForegroundWindowFromPoint"
+},
+{
+  "timestamp": "2023-12-15T17:11:50.945605+02:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Mods Agent server started on port 55816"
+},
+{
+  "timestamp": "2023-12-15T17:11:50.9970634+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Web Socket session connected"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.1506081+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Update simultaneous downloads '1' => '3'"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.1543755+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing Curse Mods Agent"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.1779349+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "update client Info ''..."
+},
+{
+  "timestamp": "2023-12-15T17:11:51.2612636+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Network connected and internet available"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.274213+02:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "AddonServiceClient - CfCore Url: https://api.curseforge.com"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.7082983+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Attempt #1 of 2 on GameDatabase -> GetRemoteItems"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.7092207+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Getting Games from server"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.7482662+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Loaded 25 games from the server"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.748484+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Saving games to local cache at /home/mihalic2040/.config/CurseForge/agent/gamesCache.json"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.771437+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[GameRepository] Completed download of cache",
+  "data": {
+    "name": "Games",
+    "elapsedTime": "61.00"
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:51.7979169+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing local databases..."
+},
+{
+  "timestamp": "2023-12-15T17:11:51.7984175+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing game instances."
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8187771+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Radium.Addons.AddonGameInstance'"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.820336+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Radium.Minecraft.MinecraftGameInstance'"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8214061+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Radium.Addons.AddonGameInstance"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8270441+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] Unable to load game instances from disk. No file was found at: /home/mihalic2040/.config/CurseForge/agent/GameInstances/AddonGameInstance.json"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8274885+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Radium.Minecraft.MinecraftGameInstance"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8276204+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] Unable to load game instances from disk. No file was found at: /home/mihalic2040/.config/CurseForge/agent/GameInstances/MinecraftGameInstance.json"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8296762+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Running startup game detection"
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8339463+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Performing quick game detection for 25 games..."
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8450125+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Game instance count is 0, so we will scan all storage drives for games."
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8450163+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Discovering games from search...",
+  "data": {
+    "Comprehensive": false,
+    "GamesInstancesCount": 0
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8576367+02:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "An error occurred while looking for installed in games on the '/sys/fs/bpf' volume.",
+  "error": {
+    "message": "Access to the path '/sys/fs/bpf' is denied.",
+    "type": "System.UnauthorizedAccessException",
+    "stack": [
+      "System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerator`1.Init()",
+      "System.IO.Enumeration.FileSystemEnumerator`1..ctor(String,Boolean,EnumerationOptions)",
+      "System.IO.Enumeration.FileSystemEnumerable`1+DelegateEnumerator..ctor(FileSystemEnumerable`1,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerable`1..ctor(String,FindTransform,EnumerationOptions,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerableFactory.DirectoryInfos(String,String,EnumerationOptions,Boolean)",
+      "System.IO.DirectoryInfo.InternalEnumerateInfos(String,String,SearchTarget,EnumerationOptions)",
+      "System.IO.DirectoryInfo.GetDirectories(String,EnumerationOptions)",
+      "System.IO.DirectoryInfo.GetDirectories()",
+      "Curse.Platform.Adapter.Detection.ScanFoldersResolver.Resolve(DriveInfo)",
+      "Curse.Radium.Games.GameManager.DiscoverGamesFromSearch(Boolean,IEnumerable`1)",
+      "Curse.Radium.Games.GameManager.DetectGames(Boolean,IEnumerable`1)",
+      "Curse.Plugin.App.Parts.GameDetectionWrapper.DetectGames(Boolean,StorageDriveModel[])",
+      "Curse.Plugin.App.CurseAppWrapper.RunStartupGameDetection()",
+      "Curse.Plugin.App.CurseAppWrapper+<Init>d__35.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()",
+      "Curse.Radium.Addons.BaseAddonServiceDatabase`3+<InitializeAsync>d__8.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()",
+      "Curse.Radium.Addons.BaseAddonServiceDatabase`3+<UpdateCacheAsync>d__14.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.Games.GameRepository+<GetRemoteItemsAsync>d__17.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.Radium.Utilities.Retry+<DoAsync>d__4`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.Games.GameRepository+<<GetRemoteItemsAsync>b__17_0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.AddonServiceClient+<GetGamesAsync>d__30.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.Server.Communication.BaseWebServiceClient+<GetAsync>d__15`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "System.Net.Http.HttpClient+<<SendAsync>g__Core|83_0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Net.Http.DecompressionHandler+<SendAsync>d__16.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Http.RedirectHandler+<SendAsync>d__4.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Http.HttpConnectionPool+<SendWithVersionDetectionAndRetryAsync>d__84.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "System.Net.Http.HttpConnection+<SendAsyncCore>d__64.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Security.SslStream+<ReadAsyncInternal>d__188`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Security.SslStream+<EnsureFullTlsFrameAsync>d__186`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.ThreadPool+<>c.<.cctor>b__86_0(Object)",
+      "System.Net.Sockets.Socket+AwaitableSocketAsyncEventArgs.InvokeContinuation(Action`1,Object,Boolean,Boolean)",
+      "System.Net.Sockets.Socket+AwaitableSocketAsyncEventArgs.OnCompleted(SocketAsyncEventArgs)",
+      "System.Net.Sockets.SocketAsyncEventArgs.OnCompletedInternal()",
+      "System.Net.Sockets.SocketAsyncEventArgs.FinishOperationAsyncSuccess(Int32,SocketFlags)",
+      "System.Net.Sockets.SocketAsyncEventArgs.CompletionCallback(Int32,SocketFlags,SocketError)",
+      "System.Net.Sockets.SocketAsyncEventArgs.TransferCompletionCallbackCore(Int32,Byte[],Int32,SocketFlags,SocketError)",
+      "System.Net.Sockets.SocketAsyncContext+BufferMemoryReceiveOperation.InvokeCallback(Boolean)",
+      "System.Net.Sockets.SocketAsyncContext+OperationQueue`1.ProcessAsyncOperation(TOperation)",
+      "System.Net.Sockets.SocketAsyncContext.ProcessAsyncReadOperation(ReadOperation)",
+      "System.Net.Sockets.SocketAsyncContext+ReadOperation.System.Threading.IThreadPoolWorkItem.Execute()",
+      "System.Net.Sockets.SocketAsyncContext+AsyncOperation.Process()",
+      "System.Net.Sockets.SocketAsyncContext.HandleEvents(SocketEvents)",
+      "System.Net.Sockets.SocketAsyncEngine.System.Threading.IThreadPoolWorkItem.Execute()",
+      "System.Threading.ThreadPoolWorkQueue.Dispatch()",
+      "System.Threading.PortableThreadPool+WorkerThread.WorkerThreadStart()",
+      "System.Threading.Thread+StartHelper.RunWorker()",
+      "System.Threading.Thread+StartHelper.Run()",
+      "System.Threading.Thread.StartCallback()"
+    ],
+    "innerError": {
+      "message": "Permission denied",
+      "type": "System.IO.IOException"
+    }
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:51.8886189+02:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "An error occurred while looking for installed in games on the '/sys/kernel/tracing' volume.",
+  "error": {
+    "message": "Access to the path '/sys/kernel/tracing' is denied.",
+    "type": "System.UnauthorizedAccessException",
+    "stack": [
+      "System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerator`1.Init()",
+      "System.IO.Enumeration.FileSystemEnumerator`1..ctor(String,Boolean,EnumerationOptions)",
+      "System.IO.Enumeration.FileSystemEnumerable`1+DelegateEnumerator..ctor(FileSystemEnumerable`1,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerable`1..ctor(String,FindTransform,EnumerationOptions,Boolean)",
+      "System.IO.Enumeration.FileSystemEnumerableFactory.DirectoryInfos(String,String,EnumerationOptions,Boolean)",
+      "System.IO.DirectoryInfo.InternalEnumerateInfos(String,String,SearchTarget,EnumerationOptions)",
+      "System.IO.DirectoryInfo.GetDirectories(String,EnumerationOptions)",
+      "System.IO.DirectoryInfo.GetDirectories()",
+      "Curse.Platform.Adapter.Detection.ScanFoldersResolver.Resolve(DriveInfo)",
+      "Curse.Radium.Games.GameManager.DiscoverGamesFromSearch(Boolean,IEnumerable`1)",
+      "Curse.Radium.Games.GameManager.DetectGames(Boolean,IEnumerable`1)",
+      "Curse.Plugin.App.Parts.GameDetectionWrapper.DetectGames(Boolean,StorageDriveModel[])",
+      "Curse.Plugin.App.CurseAppWrapper.RunStartupGameDetection()",
+      "Curse.Plugin.App.CurseAppWrapper+<Init>d__35.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()",
+      "Curse.Radium.Addons.BaseAddonServiceDatabase`3+<InitializeAsync>d__8.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()",
+      "Curse.Radium.Addons.BaseAddonServiceDatabase`3+<UpdateCacheAsync>d__14.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.Games.GameRepository+<GetRemoteItemsAsync>d__17.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.Radium.Utilities.Retry+<DoAsync>d__4`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.Games.GameRepository+<<GetRemoteItemsAsync>b__17_0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.TechService.AddonServiceClient+<GetGamesAsync>d__30.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "Curse.Server.Communication.BaseWebServiceClient+<GetAsync>d__15`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "System.Net.Http.HttpClient+<<SendAsync>g__Core|83_0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Net.Http.DecompressionHandler+<SendAsync>d__16.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Http.RedirectHandler+<SendAsync>d__4.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Http.HttpConnectionPool+<SendWithVersionDetectionAndRetryAsync>d__84.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult)",
+      "System.Net.Http.HttpConnection+<SendAsyncCore>d__64.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Security.SslStream+<ReadAsyncInternal>d__188`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox,Boolean)",
+      "System.Threading.Tasks.Task.RunContinuations(Object)",
+      "System.Threading.Tasks.Task.FinishContinuations()",
+      "System.Threading.Tasks.Task`1.TrySetResult(TResult)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1,TResult)",
+      "System.Net.Security.SslStream+<EnsureFullTlsFrameAsync>d__186`1.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.ExecutionContextCallback(Object)",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext(Thread)",
+      "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1.MoveNext()",
+      "System.Threading.ThreadPool+<>c.<.cctor>b__86_0(Object)",
+      "System.Net.Sockets.Socket+AwaitableSocketAsyncEventArgs.InvokeContinuation(Action`1,Object,Boolean,Boolean)",
+      "System.Net.Sockets.Socket+AwaitableSocketAsyncEventArgs.OnCompleted(SocketAsyncEventArgs)",
+      "System.Net.Sockets.SocketAsyncEventArgs.OnCompletedInternal()",
+      "System.Net.Sockets.SocketAsyncEventArgs.FinishOperationAsyncSuccess(Int32,SocketFlags)",
+      "System.Net.Sockets.SocketAsyncEventArgs.CompletionCallback(Int32,SocketFlags,SocketError)",
+      "System.Net.Sockets.SocketAsyncEventArgs.TransferCompletionCallbackCore(Int32,Byte[],Int32,SocketFlags,SocketError)",
+      "System.Net.Sockets.SocketAsyncContext+BufferMemoryReceiveOperation.InvokeCallback(Boolean)",
+      "System.Net.Sockets.SocketAsyncContext+OperationQueue`1.ProcessAsyncOperation(TOperation)",
+      "System.Net.Sockets.SocketAsyncContext.ProcessAsyncReadOperation(ReadOperation)",
+      "System.Net.Sockets.SocketAsyncContext+ReadOperation.System.Threading.IThreadPoolWorkItem.Execute()",
+      "System.Net.Sockets.SocketAsyncContext+AsyncOperation.Process()",
+      "System.Net.Sockets.SocketAsyncContext.HandleEvents(SocketEvents)",
+      "System.Net.Sockets.SocketAsyncEngine.System.Threading.IThreadPoolWorkItem.Execute()",
+      "System.Threading.ThreadPoolWorkQueue.Dispatch()",
+      "System.Threading.PortableThreadPool+WorkerThread.WorkerThreadStart()",
+      "System.Threading.Thread+StartHelper.RunWorker()",
+      "System.Threading.Thread+StartHelper.Run()",
+      "System.Threading.Thread.StartCallback()"
+    ],
+    "innerError": {
+      "message": "Permission denied",
+      "type": "System.IO.IOException"
+    }
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4591352+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Completed startup game detection. We have a total of 0 detected game instances. Operation took 629 ms"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4609953+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4620185+02:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4622666+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Beginning initialization of InstanceManager"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4626507+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "InstanceManager initialized."
+},
+{
+  "timestamp": "2023-12-15T17:11:52.463506+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing tasks"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4636861+02:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Refreshing Minecraft instances list"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4642255+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing Periodic Tasks"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4782511+02:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.4782741+02:00",
+  "level": "Warn",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:11:52.5528756+02:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "[ModLoaderDatabase] Completed download of cache",
+  "data": {
+    "name": "Minecraft Modloaders",
+    "elapsedTime": "73.00"
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:52.6007997+02:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "[MinecraftVersionDatabase] Completed download of cache",
+  "data": {
+    "name": "Minecraft Versions",
+    "elapsedTime": "28.00"
+  }
+},
+{
+  "timestamp": "2023-12-15T17:11:52.9746563+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:11:52.974671+02:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:11:58.9916668+02:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:11:58.9916862+02:00",
+  "level": "Warn",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:11:59.0859487+02:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:11:59.0859646+02:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:12:29.6992532+02:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "Beginning Minecraft launcher installation."
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7385825+02:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Refreshing Minecraft instances list"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7407307+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Beginning Minecraft Launcher install"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7415848+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "MinecraftRoot: /home/mihalic2040/Drives/Games/Minecraft/instances"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7415879+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "InstanceRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Instances"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7415886+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "InstallRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Install"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7416435+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "VersionRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Install/versions"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7416901+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "DownloadRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Downloads"
+},
+{
+  "timestamp": "2023-12-15T17:12:29.7419918+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Checking for existing installation",
+  "data": {
+    "Path": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher"
+  }
+},
+{
+  "timestamp": "2023-12-15T17:12:29.9938459+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Downloading launcher https://launcher.mojang.com/download/Minecraft.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.0027693+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Downloading: https://launcher.mojang.com/download/Minecraft.tar.gz to /tmp/dm5zcx5n.buj/launcher.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.4747783+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Extracting launcher.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.5157784+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Setting file watcher on instance directory /home/mihalic2040/Drives/Games/Minecraft/instances/Instances"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.5198411+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.519853+02:00",
+  "level": "Info",
+  "thread": 18,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:12:30.5220633+02:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:12:30.5220797+02:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:13:41.3201514+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:13:41.3201794+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:13:50.602136+02:00",
+  "level": "Error",
+  "thread": 30,
+  "memory": 0.0,
+  "message": "An error occurred during CreateFolderRequest",
+  "error": {
+    "message": "Value cannot be null. (Parameter 'path')",
+    "type": "System.ArgumentNullException",
+    "stack": [
+      "System.IO.Directory.CreateDirectory(String)",
+      "Curse.Common.IO.FileSystemService.CreateFolder(String)",
+      "Curse.Plugin.API.Handlers.CreateFolderRequestHandler.HandleRequest(CreateFolderRequest,CancellationToken)",
+      "Curse.Plugin.API.Handlers.AsyncApiRequestHandlerBase`1+<>c__DisplayClass7_0+<<Handle>b__0>d.MoveNext()",
+      "Curse.Plugin.API.Handlers.AsyncApiRequestHandlerBase`1+<>c__DisplayClass7_0+<<Handle>b__0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine&)",
+      "Curse.Plugin.API.Handlers.AsyncApiRequestHandlerBase`1+<>c__DisplayClass7_0.<Handle>b__0()",
+      "Curse.Plugin.RequestExecutor+<>c__DisplayClass8_0+<<ExecuteAsync>b__0>d.MoveNext()",
+      "System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine&)",
+      "Curse.Plugin.RequestExecutor+<>c__DisplayClass8_0.<ExecuteAsync>b__0()",
+      "System.Threading.Tasks.Task`1.InnerInvoke()",
+      "System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object)",
+      "System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task&,Thread)",
+      "System.Threading.Tasks.Task.ExecuteEntry()",
+      "System.Threading.Tasks.ConcurrentExclusiveSchedulerPair.ProcessExclusiveTasks()",
+      "System.Threading.ThreadPoolWorkQueue.Dispatch()",
+      "System.Threading.PortableThreadPool+WorkerThread.WorkerThreadStart()",
+      "System.Threading.Thread+StartHelper.RunWorker()",
+      "System.Threading.Thread+StartHelper.Run()",
+      "System.Threading.Thread.StartCallback()"
+    ]
+  }
+},
+{
+  "timestamp": "2023-12-15T17:14:05.658101+02:00",
+  "level": "Info",
+  "thread": 31,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:05.6581156+02:00",
+  "level": "Info",
+  "thread": 31,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:14:05.7126196+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:05.7126348+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:14:35.9952643+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "InstallTask 9cf1d260-e7db-436d-a8c0-6c6e52df452f MinecraftRepairInstallTask started..."
+},
+{
+  "timestamp": "2023-12-15T17:14:35.9961069+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Repairing minecraft installation..."
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0093519+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Beginning Minecraft launcher installation."
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095353+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Beginning Minecraft Launcher install"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095775+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "MinecraftRoot: /home/mihalic2040/Drives/Games/Minecraft/instances"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095788+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "InstanceRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Instances"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095869+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "InstallRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Install"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095882+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "VersionRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Install/versions"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0095891+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "DownloadRoot: /home/mihalic2040/Drives/Games/Minecraft/instances/Downloads"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0097217+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Checking for existing installation",
+  "data": {
+    "Path": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher"
+  }
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0100952+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Launcher accounts file was not found in backup folder. Aborting credentials restore"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0101248+02:00",
+  "level": "Info",
+  "thread": 31,
+  "memory": 0.0,
+  "message": "Refreshing Minecraft instances list"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0101486+02:00",
+  "level": "Info",
+  "thread": 32,
+  "memory": 0.0,
+  "message": "Resolving Minecraft instances list from /home/mihalic2040/Drives/Games/Minecraft/instances/Instances"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0118254+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "InstallTask 9cf1d260-e7db-436d-a8c0-6c6e52df452f MinecraftRepairInstallTask completed"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0301179+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0301322+02:00",
+  "level": "Warn",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0304833+02:00",
+  "level": "Info",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0304951+02:00",
+  "level": "Warn",
+  "thread": 29,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:14:36.0310219+02:00",
+  "level": "Info",
+  "thread": 32,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.031041+02:00",
+  "level": "Warn",
+  "thread": 32,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2023-12-15T17:14:36.6381432+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Downloading launcher https://launcher.mojang.com/download/Minecraft.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:14:36.6382783+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Downloading: https://launcher.mojang.com/download/Minecraft.tar.gz to /tmp/uj2nzihd.cwq/launcher.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:14:37.0006695+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Extracting launcher.tar.gz"
+},
+{
+  "timestamp": "2023-12-15T17:14:37.0369965+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Setting file watcher on instance directory /home/mihalic2040/Drives/Games/Minecraft/instances/Instances"
+},
+{
+  "timestamp": "2023-12-15T17:14:37.0377854+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:37.0377971+02:00",
+  "level": "Info",
+  "thread": 24,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2023-12-15T17:14:37.038535+02:00",
+  "level": "Info",
+  "thread": 3,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2023-12-15T17:14:37.0385536+02:00",
+  "level": "Info",
+  "thread": 3,
+  "memory": 0.0,
+  "message": "/home/mihalic2040/Drives/Games/Minecraft/instances/Install/minecraft-launcher found."
+}
+]}

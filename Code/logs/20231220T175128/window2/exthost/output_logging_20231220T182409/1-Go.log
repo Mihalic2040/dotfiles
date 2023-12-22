@@ -1,0 +1,189 @@
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:44:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:58:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:154:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:156:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:198:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:203:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:250:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:252:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:16:6 func bootstrap is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:25:6 func init_DHT is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:37:6 func boot is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:43:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:31:2 field dht is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:156:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:158:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:200:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:205:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:252:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:254:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:16:6 func bootstrap is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:25:6 func init_DHT is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:37:6 func boot is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:43:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:31:2 field dht is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:156:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:158:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:200:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:205:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:252:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:254:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:15:6 func bootstrap is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:24:6 func init_DHT is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:36:6 func boot is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:42:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:158:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:202:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:207:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:254:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:15:6 func bootstrap is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:36:6 func boot is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:42:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:159:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:161:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:203:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:208:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:255:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:257:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:36:6 func boot is unused (U1000)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:42:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:162:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:204:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:209:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:258:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:42:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:162:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:204:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:209:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:258:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:42:49 printf-style function with dynamic format string and no further arguments should use print-style function instead (SA1006)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:66:2 undefined: logger
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:67:11 undefined: kademliaDHT
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:73:6 wg redeclared in this block
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:74:27 undefined: config
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:80:5 undefined: logger
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:82:5 undefined: logger (compile)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:69:6 wg redeclared in this block
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:70:27 undefined: config (compile)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/Dht.go:37:27 undefined: config (compile)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:162:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:204:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:209:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:258:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:162:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:204:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:209:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:258:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+
+Starting linting the current package at /home/mihalic2040/work/Rosa-Desktop/src
+/home/mihalic2040/work/Rosa-Desktop/src>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:46:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:60:5 should omit comparison to bool constant, can be simplified to d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:160:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:162:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:204:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:209:2 empty branch (SA9003)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:256:5 should omit comparison to bool constant, can be simplified to !d.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/DbManager.go:258:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:47:5 should omit comparison to bool constant, can be simplified to !Mgr.Started (S1002)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:88:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:121:15 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Rosa-Desktop/src/MsgManager.go:125:2 empty branch (SA9003)
+

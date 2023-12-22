@@ -1,0 +1,103 @@
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/pool.go:32:6 should omit comparison to bool constant, can be simplified to w[0] (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:78:5 should omit comparison to bool constant, can be simplified to !Pool.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:132:5 should omit comparison to bool constant, can be simplified to !Pool.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:265:5 builtin function len does not return negative values (SA4024)
+/home/mihalic2040/work/Database/src/store/pool.go:266:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Database/src/store/pool.go:282:5 should omit comparison to bool constant, can be simplified to !p.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:334:5 should omit comparison to bool constant, can be simplified to !p.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/server.go:159:16 *&x will be simplified to x. It will not copy x. (SA4001)
+/home/mihalic2040/work/Database/src/store/sync.go:8:2 "io/ioutil" has been deprecated since Go 1.19: As of Go 1.16, the same functionality is now provided by package [io] or package [os], and those implementations should be preferred in new code. See the specific function documentation for details.  (SA1019)
+/home/mihalic2040/work/Database/src/store/sync.go:198:14 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Database/src/store/sync.go:202:2 rand.Seed has been deprecated since Go 1.20 and an alternative has been available since Go 1.0: As of Go 1.20 there is no reason to call Seed with a random value. Programs that call Seed with a known value to get a specific sequence of results should use New(NewSource(seed)) to obtain a local random generator.  (SA1019)
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:9:2 cannot find module providing package github.com/Mihalic2040/Hub/src/types: import lookup disabled by -mod=vendor
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:15:42 undefined: dht
+/home/mihalic2040/work/Database/src/store/Dht.go:24:74 undefined: dht
+/home/mihalic2040/work/Database/src/store/Dht.go:27:22 undefined: dht (compile)
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/Dht.go:10:2 cannot find module providing package github.com/libp2p/go-libp2p-kad-dht: import lookup disabled by -mod=vendor
+
+Starting linting the current package at /home/mihalic2040/work/Database/src/store
+/home/mihalic2040/work/Database/src/store>Finished running tool: /home/mihalic2040/go/bin/staticcheck
+/home/mihalic2040/work/Database/src/store/pool.go:32:6 should omit comparison to bool constant, can be simplified to w[0] (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:78:5 should omit comparison to bool constant, can be simplified to !Pool.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:132:5 should omit comparison to bool constant, can be simplified to !Pool.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:265:5 builtin function len does not return negative values (SA4024)
+/home/mihalic2040/work/Database/src/store/pool.go:266:10 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Database/src/store/pool.go:282:5 should omit comparison to bool constant, can be simplified to !p.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/pool.go:334:5 should omit comparison to bool constant, can be simplified to !p.Worker (S1002)
+/home/mihalic2040/work/Database/src/store/server.go:159:16 *&x will be simplified to x. It will not copy x. (SA4001)
+/home/mihalic2040/work/Database/src/store/sync.go:8:2 "io/ioutil" has been deprecated since Go 1.19: As of Go 1.16, the same functionality is now provided by package [io] or package [os], and those implementations should be preferred in new code. See the specific function documentation for details.  (SA1019)
+/home/mihalic2040/work/Database/src/store/sync.go:198:14 error strings should not be capitalized (ST1005)
+/home/mihalic2040/work/Database/src/store/sync.go:202:2 rand.Seed has been deprecated since Go 1.20 and an alternative has been available since Go 1.0: As of Go 1.20 there is no reason to call Seed with a random value. Programs that call Seed with a known value to get a specific sequence of results should use New(NewSource(seed)) to obtain a local random generator.  (SA1019)
+

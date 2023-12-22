@@ -1,0 +1,26 @@
+2023-12-19 18:55:03.152 [info] Log level: Info
+2023-12-19 18:55:03.152 [info] Validating found git in: "git"
+2023-12-19 18:55:03.152 [info] Using git "2.43.0" from "git"
+2023-12-19 18:55:03.152 [info] > git rev-parse --show-toplevel [25ms]
+2023-12-19 18:55:03.152 [info] > git rev-parse --git-dir --git-common-dir [122ms]
+2023-12-19 18:55:03.152 [info] Open repository: /home/mihalic2040/work/Rosa-Desktop
+2023-12-19 18:55:03.179 [info] > git rev-parse --show-toplevel [11ms]
+2023-12-19 18:55:03.180 [info] > git config --get commit.template [19ms]
+2023-12-19 18:55:03.225 [info] > git rev-parse --show-toplevel [33ms]
+2023-12-19 18:55:03.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2023-12-19 18:55:03.279 [info] > git rev-parse --show-toplevel [41ms]
+2023-12-19 18:55:03.307 [info] > git rev-parse --show-toplevel [10ms]
+2023-12-19 18:55:03.341 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-19 18:55:03.351 [info] > git status -z -uall [30ms]
+2023-12-19 18:55:03.365 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-19 18:55:03.376 [info] > git config --get commit.template [12ms]
+2023-12-19 18:55:03.377 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-19 18:55:03.405 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2023-12-19 18:55:03.455 [info] > git status -z -uall [20ms]
+2023-12-19 18:55:03.697 [info] > git check-ignore -v -z --stdin [9ms]
+2023-12-19 18:55:03.821 [info] > git show --textconv :frontend/src/Router.tsx [8ms]
+2023-12-19 18:55:03.857 [info] > git show --textconv :src/DbManager.go [27ms]
+2023-12-19 18:55:03.857 [info] > git ls-files --stage -- /home/mihalic2040/work/Rosa-Desktop/src/DbManager.go [15ms]
+2023-12-19 18:55:03.867 [info] > git ls-files --stage -- /home/mihalic2040/work/Rosa-Desktop/frontend/src/Router.tsx [46ms]
+2023-12-19 18:55:03.875 [info] > git cat-file -s f4a9c09ec74a1ad5c769dce2f4867dd9b0f922af [9ms]
+2023-12-19 18:55:03.877 [info] > git cat-file -s 2063b884bfa600b70c45969fee0ae5dc9a98f951 [3ms]

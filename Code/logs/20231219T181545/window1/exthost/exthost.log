@@ -1,0 +1,16 @@
+2023-12-19 18:15:46.861 [info] Extension host with pid 32721 started
+2023-12-19 18:15:46.861 [info] Skipping acquiring lock for /home/mihalic2040/.config/Code/User/workspaceStorage/debf5fd873f756599f3f0d6b734951b1.
+2023-12-19 18:15:46.928 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-19 18:15:46.987 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-19 18:15:47.007 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-19 18:15:47.057 [info] Eager extensions activated
+2023-12-19 18:15:47.073 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 18:15:47.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 18:15:47.080 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 18:15:47.086 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-19 18:15:52.115 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-19 18:15:52.134 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-19 18:15:52.161 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-19 18:15:54.238 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-12-19 18:51:03.160 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-19 18:51:03.182 [info] Extension host with pid 32721 exiting with code 0

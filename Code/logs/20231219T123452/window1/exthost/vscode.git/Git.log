@@ -1,0 +1,90 @@
+2023-12-19 12:34:54.162 [info] Log level: Info
+2023-12-19 12:34:54.162 [info] Validating found git in: "git"
+2023-12-19 12:34:54.162 [info] Using git "2.43.0" from "git"
+2023-12-19 12:34:54.162 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-19 12:34:54.162 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.162 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-19 12:34:54.162 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.162 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.162 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.169 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.169 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.175 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.175 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.181 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.181 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.186 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.186 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.192 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.192 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.198 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.198 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.204 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.204 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.211 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.211 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.218 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.218 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.224 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.224 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.229 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.229 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.234 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.234 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.241 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.241 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.250 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-19 12:34:54.250 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.256 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-19 12:34:54.256 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.269 [info] > git rev-parse --show-toplevel [6ms]
+2023-12-19 12:34:54.269 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.274 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.274 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.286 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-19 12:34:54.286 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.292 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.292 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.298 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.298 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.304 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.304 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.316 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-19 12:34:54.316 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.474 [info] > git rev-parse --show-toplevel [6ms]
+2023-12-19 12:34:54.474 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.659 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:34:54.659 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:34:54.856 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-19 12:34:54.856 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-19 12:35:36.427 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-19 12:35:36.427 [info] fatal: not a git repository (or any parent up to mount point /home/mihalic2040/Drives)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

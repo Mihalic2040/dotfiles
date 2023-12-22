@@ -1,0 +1,23 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "Modpacks",
+      "output_dir": "/home/mihalic2040/.minecraft/mods",
+      "game_version": "1.18.2",
+      "mod_loader": "Fabric",
+      "mods": []
+    }
+  ],
+  "modpacks": [
+    {
+      "name": "Benchmark II - 1.18",
+      "output_dir": "/home/mihalic2040/BenchMark2",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 551158
+      }
+    }
+  ]
+}

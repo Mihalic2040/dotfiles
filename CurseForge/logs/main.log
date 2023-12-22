@@ -1,0 +1,78 @@
+[2023-12-15 17:11:47.656] [info]  [ConfigurationServiceImpl] Current env: release
+[2023-12-15 17:11:47.663] [info]  [EleriumCommunicationLayer] setCfCoreHost called with https://api.curseforge.com
+[2023-12-15 17:11:47.672] [info]  [BackgroundController] App version: [object Object]
+[2023-12-15 17:11:47.672] [info]  [BackgroundController] OS: linux
+[2023-12-15 17:11:47.673] [info]  [BackgroundController] OS version: 6.6.6-arch1-1
+[2023-12-15 17:11:47.673] [info]  [BackgroundController] App startup args: /tmp/.mount_CurseF1ClEA0/curseforge
+[2023-12-15 17:11:47.691] [info]  [BackgroundController] Failed subscribing app protocol
+[2023-12-15 17:11:47.881] [info]  [BackgroundController] Electron App Ready. Continuing Initialization...
+[2023-12-15 17:11:48.539] [info]  [AutoUpdaterServiceImpl] Starting Auto Updater Service
+[2023-12-15 17:11:48.540] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2023-12-15 17:11:48.609] [info]  [AutoUpdaterServiceImpl] Auto updater is disabled by configuration
+[2023-12-15 17:11:48.610] [info]  [MarketingVideosServiceImpl] Fetching https://mrkt.forgecdn.net/app-vids/marketing_videos.json ...
+[2023-12-15 17:11:48.612] [info]  [AppUpdatePeriodicChecker] Running periodic app update check
+[2023-12-15 17:11:48.613] [info]  [AppUpdateServiceImpl] Checking for available application updates. Current app version is 0.240.3-15214
+[2023-12-15 17:11:48.613] [info]  Checking for update
+[2023-12-15 17:11:48.613] [info]  Electron Updater - Checking for application update
+[2023-12-15 17:11:48.614] [info]  Generated new staging user ID: 4beaaeea-d78a-541b-8d16-70fe6869a620
+[2023-12-15 17:11:48.685] [info]  [MarketingVideosServiceImpl] Fetching https://mrkt.forgecdn.net/app-vids/onboarding_videos.json ...
+[2023-12-15 17:11:48.695] [info]  Update for version 0.240.3-15214 is not available (latest version: 0.240.3-15214, downgrade is disallowed).
+[2023-12-15 17:11:48.695] [info]  Electron Updater - App update is not available. Latest Version: 0.240.3-15214. Release Date: 2023-12-13T08:38:31.393Z
+[2023-12-15 17:11:48.695] [info]  [AppUpdateServiceImpl] No updates are available for the app.
+[2023-12-15 17:11:48.696] [info]  [AppUpdatePeriodicChecker] No app update. Scheduling the next update check in 900000 milliseconds
+[2023-12-15 17:11:48.728] [info]  [ClientOverridesImpl] Fetching https://curseforge.overwolf.com/downloads/client-overrides-v2.json ...
+[2023-12-15 17:11:48.815] [info]  [BannerConfigApi] Fetching https://content.overwolf.com/curseforge/app/config/banner-config-v1.json ...
+[2023-12-15 17:11:49.389] [info]  [PluginProcessHost] Starting Mods Agent with ports range 55816-55836
+[2023-12-15 17:11:49.392] [info]  [PluginProcessHost] Launching Mods Agent process /tmp/.mount_CurseF1ClEA0/resources/app.asar.unpacked/plugins/curse/linux/Curse.Agent.Host with args: --port=55816,--to-port=55836,--pid=12072,--appDataPath=/home/mihalic2040/.config/CurseForge,--clientId=Overwolf
+[2023-12-15 17:11:49.413] [info]  [PluginProcessHost] Mods Agent started. pid: 12200
+[2023-12-15 17:11:49.915] [info]  [PluginProcessHost] Mods Agent process started
+[2023-12-15 17:11:49.915] [info]  [PluginWebSocket] Connecting to Mods Agent CurseForge on ports range 55816-55836
+[2023-12-15 17:11:49.918] [info]  [PluginWebSocket] Websocket connection error: Error: connect ECONNREFUSED 127.0.0.1:55816
+[2023-12-15 17:11:49.929] [info]  [PluginWebSocket] An error occurred while connecting to the agent plugin.
+[2023-12-15 17:11:50.996] [info]  [PluginWebSocket] Connected to mods agent
+[2023-12-15 17:11:50.997] [info]  [PluginWebSocket] Connected to Mods Agent on port 55816
+[2023-12-15 17:11:51.841] [info]  [GamesServiceImpl] Games scan started. Comprehensive: false
+[2023-12-15 17:11:52.460] [info]  [GamesServiceImpl] Games scan completed. Comprehensive: false. Canceled: false
+[2023-12-15 17:11:52.471] [info]  [CoreServiceImpl] Mods agent was initialized successfully
+[2023-12-15 17:11:52.520] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:11:52.521] [info]  [AppConnectivityService] Reporting app connectivity
+[2023-12-15 17:11:52.975] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:11:53.023] [info]  [AnalyticsService] Sent a Grafana event to https://tracking.overwolf.com/tracking/InsertStats?Stats=true. Status code is 200
+[2023-12-15 17:11:53.027] [info]  [mixpanelServiceImpl] Initialize Mixpanel Service
+[2023-12-15 17:11:55.524] [info]  [ReleaseNotesApiImpl] Fetching /0.240.3.15214/release-notes/1 ...
+[2023-12-15 17:11:58.962] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":4471}
+[2023-12-15 17:11:58.973] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classesOnly":true}
+[2023-12-15 17:11:58.978] [info]  [MeasurementServiceImpl] starting measurement game-dau
+[2023-12-15 17:11:58.994] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:11:59.021] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":6}
+[2023-12-15 17:11:59.086] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":12}
+[2023-12-15 17:11:59.096] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:11:59.141] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":6552}
+[2023-12-15 17:11:59.173] [info]  [EleriumCommunicationLayer] Request - GET /categories - params: {"gameId":432,"classId":17}
+[2023-12-15 17:12:08.993] [info]  [AnalyticsService] trackDailyUnique is unique: true
+[2023-12-15 17:12:29.680] [info]  [MinecraftInstallationServiceImpl] Changing location to: /home/mihalic2040/Drives/Games/Minecraft/instances
+[2023-12-15 17:12:30.522] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2023-12-15 17:13:50.643] [info]  [MinecraftInstallationServiceImpl] Failed to create folder: undefined Value cannot be null. (Parameter 'path')
+[2023-12-15 17:14:05.642] [info]  [MeasurementServiceImpl] starting measurement game-dau
+[2023-12-15 17:14:05.666] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2023-12-15 17:14:05.728] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2023-12-15 17:14:15.647] [info]  [AnalyticsStorageManager] Already tracked cf_daily_active_user_per_game_gameId.432 today
+[2023-12-15 17:14:15.647] [info]  [AnalyticsService] trackDailyUnique is unique: false
+[2023-12-15 17:14:30.335] [info]  [EleriumCommunicationLayer] Request - GET /games/432/versions - params: None
+[2023-12-15 17:14:30.361] [info]  [EleriumCommunicationLayer] Request - GET /mods/search?classId=4471&gameId=432&pageSize=20&sortField=1&sortOrder=desc&index=0 - params: None
+[2023-12-15 17:14:30.419] [info]  [EleriumCommunicationLayer] Request - GET /minecraft/modloader?includeAll=true - params: None
+[2023-12-15 17:14:30.627] [info]  [WebAddonsServiceImpl] Got 20 search results for game 432. Page 1
+[2023-12-15 17:14:36.033] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:14:36.034] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:14:36.038] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: false
+[2023-12-15 17:14:37.038] [info]  [MinecraftInstallationServiceImpl] Minecraft install state: true
+[2023-12-15 17:15:23.495] [info]  [SessionsService] session ended
+[2023-12-15 17:15:26.578] [info]  [BackgroundController] Request to shutdown from tray ...
+[2023-12-15 17:15:26.579] [info]  [BackgroundController] Shutting down...
+[2023-12-15 17:15:26.581] [info]  [CoreServiceImpl] Performing shutdown cleanup actions
+[2023-12-15 17:15:26.582] [info]  [InstalledAddonsServiceImpl] Cleanup - committing deletion transactions
+[2023-12-15 17:15:26.583] [info]  [CoreServiceImpl] Shutdown cleanup actions complete
+[2023-12-15 17:15:26.597] [info]  [PluginProcessHost] Mods Agent process closed, connected: false (d:false)
+[2023-12-15 17:15:26.597] [info]  [PluginProcessHost] Agent process exited with exit code null
+[2023-12-15 17:15:26.598] [info]  [PluginWebSocket] Websocket connection to agent was closed. Reason: , Code: 1006, Type: close. WasClean: false
+[2023-12-15 17:15:26.598] [info]  [PluginWebSocket] Websocket connection error. Error: undefined, Message: undefined, Type: undefined

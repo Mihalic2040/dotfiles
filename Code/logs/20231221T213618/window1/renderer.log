@@ -1,0 +1,5 @@
+2023-12-21 21:36:19.337 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-21 21:36:19.605 [info] Started local extension host with pid 29308.
+2023-12-21 21:36:22.268 [info] [perf] Render performance baseline is 27ms
+2023-12-21 21:39:56.970 [error] Cannot read properties of undefined (reading 'fsPath'): TypeError: Cannot read properties of undefined (reading 'fsPath')
+    at Fe (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2345:13360)

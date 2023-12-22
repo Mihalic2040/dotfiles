@@ -1,0 +1,23 @@
+[Info  - 11:47:59 PM] 2023/12/18 23:47:59 go info for /home/mihalic2040/work/Rosa-Desktop
+(go dir /home/mihalic2040/work/Rosa-Desktop)
+(go version go version go1.21.5 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/mihalic2040/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/mihalic2040/go/pkg/mod, GOPATH=/home/mihalic2040/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 11:47:59 PM] 2023/12/18 23:47:59 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/mihalic2040/work/Rosa-Desktop
+	query=[/home/mihalic2040/work/Rosa-Desktop/... builtin]
+	packages=4
+
+[Info  - 11:47:59 PM] 2023/12/18 23:47:59 go/packages.Load #1: updating metadata for 447 packages
+
+[Info  - 11:48:30 PM] 2023/12/18 23:48:30 background imports cache refresh starting
+
+[Info  - 11:48:30 PM] 2023/12/18 23:48:30 background refresh finished after 177.59166ms
+
+[Info  - 11:59:36 PM] 2023/12/18 23:59:36 Shutdown session
+	shutdown_session=1
+
